@@ -1,0 +1,3016 @@
+,year,location
+0,1946,Bolivia
+1,1952,Bolivia
+2,1967,Bolivia
+3,1946,Cambodia
+4,1947,Cambodia
+5,1948,Cambodia
+6,1949,Cambodia
+7,1950,Cambodia
+8,1951,Cambodia
+9,1952,Cambodia
+10,1953,Cambodia
+11,1946,China
+12,1947,China
+13,1948,China
+14,1949,China
+15,1946,Greece
+16,1947,Greece
+17,1948,Greece
+18,1949,Greece
+19,1946,Indonesia
+20,1947,Indonesia
+21,1948,Indonesia
+22,1949,Indonesia
+23,1946,Iran
+24,1966,Iran
+25,1967,Iran
+26,1968,Iran
+27,1979,Iran
+28,1980,Iran
+29,1981,Iran
+30,1982,Iran
+31,1983,Iran
+32,1984,Iran
+33,1985,Iran
+34,1986,Iran
+35,1987,Iran
+36,1988,Iran
+37,1990,Iran
+38,1993,Iran
+39,1996,Iran
+40,2016,Iran
+41,1946,Iran
+42,1946,Israel
+43,1946,Laos
+44,1947,Laos
+45,1948,Laos
+46,1949,Laos
+47,1950,Laos
+48,1951,Laos
+49,1952,Laos
+50,1953,Laos
+51,1946,Philippines
+52,1947,Philippines
+53,1948,Philippines
+54,1949,Philippines
+55,1950,Philippines
+56,1951,Philippines
+57,1952,Philippines
+58,1953,Philippines
+59,1954,Philippines
+60,1969,Philippines
+61,1970,Philippines
+62,1971,Philippines
+63,1972,Philippines
+64,1973,Philippines
+65,1974,Philippines
+66,1975,Philippines
+67,1976,Philippines
+68,1977,Philippines
+69,1978,Philippines
+70,1979,Philippines
+71,1980,Philippines
+72,1981,Philippines
+73,1982,Philippines
+74,1983,Philippines
+75,1984,Philippines
+76,1985,Philippines
+77,1986,Philippines
+78,1987,Philippines
+79,1987,Philippines
+80,1988,Philippines
+81,1989,Philippines
+82,1989,Philippines
+83,1990,Philippines
+84,1990,Philippines
+85,1991,Philippines
+86,1992,Philippines
+87,1993,Philippines
+88,1994,Philippines
+89,1995,Philippines
+90,1997,Philippines
+91,1999,Philippines
+92,2000,Philippines
+93,2001,Philippines
+94,2002,Philippines
+95,2003,Philippines
+96,2004,Philippines
+97,2005,Philippines
+98,2006,Philippines
+99,2007,Philippines
+100,2008,Philippines
+101,2009,Philippines
+102,2010,Philippines
+103,2011,Philippines
+104,2012,Philippines
+105,2013,Philippines
+106,2014,Philippines
+107,2015,Philippines
+108,2016,Philippines
+109,1946,Russia
+110,1947,Russia
+111,1948,Russia
+112,1946,Russia
+113,1946,Russia
+114,1946,Russia
+115,1947,Russia
+116,1948,Russia
+117,1946,Russia
+118,1947,Russia
+119,1948,Russia
+120,1949,Russia
+121,1950,Russia
+122,1946,France
+123,1946,Thailand
+124,1946,Albania
+125,1946,United Kingdom
+126,1946,Vietnam (North Vietnam)
+127,1947,Vietnam (North Vietnam)
+128,1948,Vietnam (North Vietnam)
+129,1949,Vietnam (North Vietnam)
+130,1950,Vietnam (North Vietnam)
+131,1951,Vietnam (North Vietnam)
+132,1952,Vietnam (North Vietnam)
+133,1953,Vietnam (North Vietnam)
+134,1954,Vietnam (North Vietnam)
+135,1947,China
+136,1948,India
+137,1948,Pakistan
+138,1964,India
+139,1964,Pakistan
+140,1965,India
+141,1965,Pakistan
+142,1971,India
+143,1971,Pakistan
+144,1984,India
+145,1984,Pakistan
+146,1987,India
+147,1987,Pakistan
+148,1989,India
+149,1989,Pakistan
+150,1990,India
+151,1990,Pakistan
+152,1991,India
+153,1991,Pakistan
+154,1992,India
+155,1992,Pakistan
+156,1996,India
+157,1996,Pakistan
+158,1997,India
+159,1997,Pakistan
+160,1998,India
+161,1998,Pakistan
+162,1999,India
+163,1999,Pakistan
+164,2000,India
+165,2000,Pakistan
+166,2001,India
+167,2001,Pakistan
+168,2002,India
+169,2002,Pakistan
+170,2003,India
+171,2003,Pakistan
+172,2014,India
+173,2014,Pakistan
+174,2015,India
+175,2015,Pakistan
+176,2016,India
+177,2016,Pakistan
+178,1947,Madagascar (Malagasy)
+179,1947,Paraguay
+180,1954,Paraguay
+181,1989,Paraguay
+182,1949,Myanmar
+183,1950,Myanmar
+184,1951,Myanmar
+185,1952,Myanmar
+186,1953,Myanmar
+187,1954,Myanmar
+188,1955,Myanmar
+189,1956,Myanmar
+190,1957,Myanmar
+191,1958,Myanmar
+192,1959,Myanmar
+193,1960,Myanmar
+194,1961,Myanmar
+195,1962,Myanmar
+196,1963,Myanmar
+197,1964,Myanmar
+198,1965,Myanmar
+199,1966,Myanmar
+200,1966,Myanmar
+201,1967,Myanmar
+202,1967,Myanmar
+203,1968,Myanmar
+204,1968,Myanmar
+205,1969,Myanmar
+206,1969,Myanmar
+207,1970,Myanmar
+208,1970,Myanmar
+209,1971,Myanmar
+210,1971,Myanmar
+211,1972,Myanmar
+212,1972,Myanmar
+213,1973,Myanmar
+214,1973,Myanmar
+215,1974,Myanmar
+216,1974,Myanmar
+217,1975,Myanmar
+218,1975,Myanmar
+219,1976,Myanmar
+220,1977,Myanmar
+221,1978,Myanmar
+222,1979,Myanmar
+223,1980,Myanmar
+224,1981,Myanmar
+225,1982,Myanmar
+226,1983,Myanmar
+227,1984,Myanmar
+228,1985,Myanmar
+229,1986,Myanmar
+230,1987,Myanmar
+231,1988,Myanmar
+232,1989,Myanmar
+233,1990,Myanmar
+234,1991,Myanmar
+235,1992,Myanmar
+236,1994,Myanmar
+237,1995,Myanmar
+238,1997,Myanmar
+239,1998,Myanmar
+240,2000,Myanmar
+241,2000,Myanmar
+242,2001,Myanmar
+243,2002,Myanmar
+244,2003,Myanmar
+245,2004,Myanmar
+246,2005,Myanmar
+247,2006,Myanmar
+248,2007,Myanmar
+249,2008,Myanmar
+250,2009,Myanmar
+251,2010,Myanmar
+252,2010,Myanmar
+253,2011,Myanmar
+254,2011,Myanmar
+255,2013,Myanmar
+256,1948,Myanmar
+257,1948,Myanmar
+258,1948,Myanmar
+259,1949,Myanmar
+260,1949,Myanmar
+261,1949,Myanmar
+262,1950,Myanmar
+263,1950,Myanmar
+264,1950,Myanmar
+265,1951,Myanmar
+266,1951,Myanmar
+267,1952,Myanmar
+268,1952,Myanmar
+269,1953,Myanmar
+270,1953,Myanmar
+271,1954,Myanmar
+272,1955,Myanmar
+273,1956,Myanmar
+274,1957,Myanmar
+275,1958,Myanmar
+276,1959,Myanmar
+277,1960,Myanmar
+278,1961,Myanmar
+279,1962,Myanmar
+280,1963,Myanmar
+281,1964,Myanmar
+282,1965,Myanmar
+283,1966,Myanmar
+284,1967,Myanmar
+285,1968,Myanmar
+286,1969,Myanmar
+287,1970,Myanmar
+288,1970,Myanmar
+289,1971,Myanmar
+290,1972,Myanmar
+291,1973,Myanmar
+292,1974,Myanmar
+293,1975,Myanmar
+294,1976,Myanmar
+295,1977,Myanmar
+296,1978,Myanmar
+297,1979,Myanmar
+298,1980,Myanmar
+299,1981,Myanmar
+300,1982,Myanmar
+301,1983,Myanmar
+302,1984,Myanmar
+303,1985,Myanmar
+304,1986,Myanmar
+305,1987,Myanmar
+306,1988,Myanmar
+307,1990,Myanmar
+308,1991,Myanmar
+309,1992,Myanmar
+310,1994,Myanmar
+311,1948,Myanmar
+312,1948,Myanmar
+313,1949,Myanmar
+314,1949,Myanmar
+315,1950,Myanmar
+316,1950,Myanmar
+317,1951,Myanmar
+318,1951,Myanmar
+319,1952,Myanmar
+320,1952,Myanmar
+321,1953,Myanmar
+322,1953,Myanmar
+323,1954,Myanmar
+324,1954,Myanmar
+325,1955,Myanmar
+326,1955,Myanmar
+327,1956,Myanmar
+328,1956,Myanmar
+329,1957,Myanmar
+330,1957,Myanmar
+331,1958,Myanmar
+332,1959,Myanmar
+333,1960,Myanmar
+334,1961,Myanmar
+335,1964,Myanmar
+336,1964,Myanmar
+337,1965,Myanmar
+338,1965,Myanmar
+339,1966,Myanmar
+340,1966,Myanmar
+341,1967,Myanmar
+342,1967,Myanmar
+343,1968,Myanmar
+344,1968,Myanmar
+345,1969,Myanmar
+346,1969,Myanmar
+347,1970,Myanmar
+348,1970,Myanmar
+349,1971,Myanmar
+350,1971,Myanmar
+351,1972,Myanmar
+352,1972,Myanmar
+353,1973,Myanmar
+354,1973,Myanmar
+355,1974,Myanmar
+356,1975,Myanmar
+357,1976,Myanmar
+358,1977,Myanmar
+359,1977,Myanmar
+360,1978,Myanmar
+361,1991,Myanmar
+362,1994,Myanmar
+363,2016,Myanmar
+364,1949,Myanmar
+365,1950,Myanmar
+366,1951,Myanmar
+367,1952,Myanmar
+368,1953,Myanmar
+369,1954,Myanmar
+370,1955,Myanmar
+371,1956,Myanmar
+372,1957,Myanmar
+373,1958,Myanmar
+374,1959,Myanmar
+375,1960,Myanmar
+376,1961,Myanmar
+377,1962,Myanmar
+378,1963,Myanmar
+379,1990,Myanmar
+380,1996,Myanmar
+381,1948,Costa Rica
+382,1948,Hyderabad
+383,1948,India
+384,1948,India
+385,1949,India
+386,1950,India
+387,1951,India
+388,1969,India
+389,1970,India
+390,1971,India
+391,1991,India
+392,1992,India
+393,1993,India
+394,1994,India
+395,1996,India
+396,1997,India
+397,1998,India
+398,1999,India
+399,1999,India
+400,2000,India
+401,2000,India
+402,2000,India
+403,2001,India
+404,2001,India
+405,2002,India
+406,2002,India
+407,2003,India
+408,2003,India
+409,2004,India
+410,2004,India
+411,2005,India
+412,2006,India
+413,2007,India
+414,2008,India
+415,2009,India
+416,2010,India
+417,2011,India
+418,2012,India
+419,2013,India
+420,2014,India
+421,2015,India
+422,2016,India
+423,1948,Israel
+424,1948,Egypt
+425,1948,Iraq
+426,1948,Jordan
+427,1948,Lebanon
+428,1948,Syria
+429,1949,Israel
+430,1949,Egypt
+431,1949,Iraq
+432,1949,Jordan
+433,1949,Lebanon
+434,1949,Syria
+435,1948,Malaysia
+436,1949,Malaysia
+437,1950,Malaysia
+438,1951,Malaysia
+439,1952,Malaysia
+440,1953,Malaysia
+441,1954,Malaysia
+442,1955,Malaysia
+443,1956,Malaysia
+444,1957,Malaysia
+445,1948,Yemen (North Yemen)
+446,1962,Yemen (North Yemen)
+447,1963,Yemen (North Yemen)
+448,1964,Yemen (North Yemen)
+449,1965,Yemen (North Yemen)
+450,1966,Yemen (North Yemen)
+451,1967,Yemen (North Yemen)
+452,1968,Yemen (North Yemen)
+453,1969,Yemen (North Yemen)
+454,1970,Yemen (North Yemen)
+455,1979,Yemen (North Yemen)
+456,1980,Yemen (North Yemen)
+457,1981,Yemen (North Yemen)
+458,1982,Yemen (North Yemen)
+459,2009,Yemen (North Yemen)
+460,2010,Yemen (North Yemen)
+461,2011,Yemen (North Yemen)
+462,2012,Yemen (North Yemen)
+463,2013,Yemen (North Yemen)
+464,2014,Yemen (North Yemen)
+465,2014,Yemen (North Yemen)
+466,2015,Yemen (North Yemen)
+467,2015,Yemen (North Yemen)
+468,2015,Yemen (North Yemen)
+469,2016,Yemen (North Yemen)
+470,1949,Myanmar
+471,1950,Myanmar
+472,1961,Myanmar
+473,1962,Myanmar
+474,1963,Myanmar
+475,1964,Myanmar
+476,1965,Myanmar
+477,1966,Myanmar
+478,1967,Myanmar
+479,1968,Myanmar
+480,1969,Myanmar
+481,1970,Myanmar
+482,1971,Myanmar
+483,1972,Myanmar
+484,1973,Myanmar
+485,1974,Myanmar
+486,1975,Myanmar
+487,1976,Myanmar
+488,1977,Myanmar
+489,1978,Myanmar
+490,1979,Myanmar
+491,1980,Myanmar
+492,1981,Myanmar
+493,1982,Myanmar
+494,1983,Myanmar
+495,1984,Myanmar
+496,1985,Myanmar
+497,1986,Myanmar
+498,1987,Myanmar
+499,1988,Myanmar
+500,1989,Myanmar
+501,1990,Myanmar
+502,1991,Myanmar
+503,1992,Myanmar
+504,2011,Myanmar
+505,2012,Myanmar
+506,2013,Myanmar
+507,2014,Myanmar
+508,2015,Myanmar
+509,2016,Myanmar
+510,1949,China
+511,1949,Taiwan
+512,1950,China
+513,1950,Taiwan
+514,1954,China
+515,1954,Taiwan
+516,1958,China
+517,1958,Taiwan
+518,1949,Guatemala
+519,1954,Guatemala
+520,1963,Guatemala
+521,1965,Guatemala
+522,1966,Guatemala
+523,1967,Guatemala
+524,1968,Guatemala
+525,1969,Guatemala
+526,1970,Guatemala
+527,1970,Guatemala
+528,1971,Guatemala
+529,1971,Guatemala
+530,1972,Guatemala
+531,1972,Guatemala
+532,1973,Guatemala
+533,1973,Guatemala
+534,1974,Guatemala
+535,1974,Guatemala
+536,1975,Guatemala
+537,1975,Guatemala
+538,1976,Guatemala
+539,1976,Guatemala
+540,1977,Guatemala
+541,1977,Guatemala
+542,1978,Guatemala
+543,1978,Guatemala
+544,1979,Guatemala
+545,1979,Guatemala
+546,1979,Guatemala
+547,1980,Guatemala
+548,1980,Guatemala
+549,1980,Guatemala
+550,1981,Guatemala
+551,1981,Guatemala
+552,1981,Guatemala
+553,1981,Guatemala
+554,1982,Guatemala
+555,1983,Guatemala
+556,1984,Guatemala
+557,1985,Guatemala
+558,1986,Guatemala
+559,1987,Guatemala
+560,1988,Guatemala
+561,1989,Guatemala
+562,1990,Guatemala
+563,1991,Guatemala
+564,1992,Guatemala
+565,1993,Guatemala
+566,1994,Guatemala
+567,1995,Guatemala
+568,1949,Israel
+569,1950,Israel
+570,1951,Israel
+571,1952,Israel
+572,1953,Israel
+573,1954,Israel
+574,1955,Israel
+575,1956,Israel
+576,1957,Israel
+577,1958,Israel
+578,1959,Israel
+579,1960,Israel
+580,1961,Israel
+581,1962,Israel
+582,1963,Israel
+583,1964,Israel
+584,1965,Israel
+585,1965,Israel
+586,1966,Israel
+587,1966,Israel
+588,1967,Israel
+589,1967,Israel
+590,1968,Israel
+591,1968,Israel
+592,1969,Israel
+593,1969,Israel
+594,1970,Israel
+595,1970,Israel
+596,1971,Israel
+597,1971,Israel
+598,1972,Israel
+599,1972,Israel
+600,1973,Israel
+601,1973,Israel
+602,1974,Israel
+603,1974,Israel
+604,1975,Israel
+605,1975,Israel
+606,1976,Israel
+607,1976,Israel
+608,1977,Israel
+609,1977,Israel
+610,1978,Israel
+611,1978,Israel
+612,1979,Israel
+613,1979,Israel
+614,1980,Israel
+615,1980,Israel
+616,1981,Israel
+617,1981,Israel
+618,1982,Israel
+619,1982,Israel
+620,1983,Israel
+621,1983,Israel
+622,1984,Israel
+623,1984,Israel
+624,1985,Israel
+625,1985,Israel
+626,1986,Israel
+627,1986,Israel
+628,1987,Israel
+629,1987,Israel
+630,1988,Israel
+631,1988,Israel
+632,1989,Israel
+633,1989,Israel
+634,1990,Israel
+635,1991,Israel
+636,1992,Israel
+637,1993,Israel
+638,1994,Israel
+639,1995,Israel
+640,1996,Israel
+641,2000,Israel
+642,2000,Israel
+643,2001,Israel
+644,2001,Israel
+645,2001,Israel
+646,2001,Israel
+647,2001,Israel
+648,2002,Israel
+649,2002,Israel
+650,2002,Israel
+651,2002,Israel
+652,2002,Israel
+653,2003,Israel
+654,2003,Israel
+655,2003,Israel
+656,2004,Israel
+657,2004,Israel
+658,2004,Israel
+659,2005,Israel
+660,2005,Israel
+661,2005,Israel
+662,2006,Israel
+663,2006,Israel
+664,2006,Israel
+665,2006,Israel
+666,2007,Israel
+667,2007,Israel
+668,2007,Israel
+669,2008,Israel
+670,2008,Israel
+671,2009,Israel
+672,2009,Israel
+673,2010,Israel
+674,2011,Israel
+675,2011,Israel
+676,2012,Israel
+677,2012,Israel
+678,2014,Israel
+679,2014,Israel
+680,1949,North Korea
+681,1949,South Korea
+682,1950,North Korea
+683,1950,South Korea
+684,1951,North Korea
+685,1951,South Korea
+686,1952,North Korea
+687,1952,South Korea
+688,1953,North Korea
+689,1953,South Korea
+690,1950,China
+691,1956,China
+692,1959,China
+693,1950,Indonesia
+694,1950,United States of America
+695,1951,Egypt
+696,1951,United Kingdom
+697,1952,Egypt
+698,1952,United Kingdom
+699,1951,Thailand
+700,1974,Thailand
+701,1975,Thailand
+702,1976,Thailand
+703,1977,Thailand
+704,1978,Thailand
+705,1979,Thailand
+706,1980,Thailand
+707,1981,Thailand
+708,1982,Thailand
+709,1952,Kenya
+710,1953,Kenya
+711,1954,Kenya
+712,1955,Kenya
+713,1956,Kenya
+714,1953,Cuba
+715,1956,Cuba
+716,1957,Cuba
+717,1958,Cuba
+718,1961,Cuba
+719,1953,Indonesia
+720,1958,Indonesia
+721,1958,Indonesia
+722,1958,Indonesia
+723,1959,Indonesia
+724,1959,Indonesia
+725,1959,Indonesia
+726,1960,Indonesia
+727,1960,Indonesia
+728,1960,Indonesia
+729,1961,Indonesia
+730,1961,Indonesia
+731,1961,Indonesia
+732,1953,Morocco
+733,1954,Morocco
+734,1955,Morocco
+735,1956,Morocco
+736,1953,Tunisia
+737,1954,Tunisia
+738,1955,Tunisia
+739,1956,Tunisia
+740,1954,Algeria
+741,1955,Algeria
+742,1955,Algeria
+743,1956,Algeria
+744,1956,Algeria
+745,1957,Algeria
+746,1957,Algeria
+747,1958,Algeria
+748,1959,Algeria
+749,1960,Algeria
+750,1961,Algeria
+751,1962,Algeria
+752,1955,Argentina
+753,1955,Argentina
+754,1963,Argentina
+755,1974,Argentina
+756,1975,Argentina
+757,1975,Argentina
+758,1976,Argentina
+759,1976,Argentina
+760,1977,Argentina
+761,1977,Argentina
+762,1955,Cyprus
+763,1956,Cyprus
+764,1957,Cyprus
+765,1958,Cyprus
+766,1959,Cyprus
+767,1955,South Vietnam
+768,1956,South Vietnam
+769,1957,South Vietnam
+770,1958,South Vietnam
+771,1959,South Vietnam
+772,1960,South Vietnam
+773,1961,South Vietnam
+774,1962,South Vietnam
+775,1963,South Vietnam
+776,1964,South Vietnam
+777,1956,Hungary
+778,1956,Russia
+779,1956,India
+780,1957,India
+781,1958,India
+782,1959,India
+783,1961,India
+784,1962,India
+785,1963,India
+786,1964,India
+787,1965,India
+788,1966,India
+789,1967,India
+790,1968,India
+791,1992,India
+792,1993,India
+793,1994,India
+794,1995,India
+795,1996,India
+796,1997,India
+797,2000,India
+798,1956,Egypt
+799,1956,France
+800,1956,Israel
+801,1956,United Kingdom
+802,1957,Myanmar
+803,1987,Myanmar
+804,1992,Myanmar
+805,1996,Myanmar
+806,2005,Myanmar
+807,1957,Cameroon
+808,1958,Cameroon
+809,1959,Cameroon
+810,1957,Honduras
+811,1957,Nicaragua
+812,1957,Mauritania
+813,1957,Morocco
+814,1958,Mauritania
+815,1958,Morocco
+816,1957,Mauritania
+817,1957,Morocco
+818,1958,Mauritania
+819,1958,Morocco
+820,1957,Oman
+821,1958,Iraq
+822,1959,Iraq
+823,1963,Iraq
+824,1963,Iraq
+825,1982,Iraq
+826,1983,Iraq
+827,1984,Iraq
+828,1987,Iraq
+829,1991,Iraq
+830,1992,Iraq
+831,1993,Iraq
+832,1994,Iraq
+833,1995,Iraq
+834,1996,Iraq
+835,2004,Iraq
+836,2004,Iraq
+837,2004,Iraq
+838,2005,Iraq
+839,2005,Iraq
+840,2005,Iraq
+841,2006,Iraq
+842,2006,Iraq
+843,2006,Iraq
+844,2007,Iraq
+845,2007,Iraq
+846,2007,Iraq
+847,2007,Iraq
+848,2008,Iraq
+849,2008,Iraq
+850,2009,Iraq
+851,2010,Iraq
+852,2011,Iraq
+853,2011,Iraq
+854,2012,Iraq
+855,2013,Iraq
+856,2014,Iraq
+857,2015,Iraq
+858,2016,Iraq
+859,1958,Lebanon
+860,1975,Lebanon
+861,1976,Lebanon
+862,1976,Lebanon
+863,1982,Lebanon
+864,1983,Lebanon
+865,1983,Lebanon
+866,1984,Lebanon
+867,1984,Lebanon
+868,1985,Lebanon
+869,1986,Lebanon
+870,1986,Lebanon
+871,1989,Lebanon
+872,1989,Lebanon
+873,1990,Lebanon
+874,1958,Malaysia
+875,1959,Malaysia
+876,1960,Malaysia
+877,1974,Malaysia
+878,1975,Malaysia
+879,1981,Malaysia
+880,1959,Laos
+881,1960,Laos
+882,1960,Laos
+883,1961,Laos
+884,1963,Laos
+885,1964,Laos
+886,1965,Laos
+887,1966,Laos
+888,1967,Laos
+889,1968,Laos
+890,1969,Laos
+891,1970,Laos
+892,1971,Laos
+893,1972,Laos
+894,1973,Laos
+895,1989,Laos
+896,1990,Laos
+897,1961,Angola
+898,1961,Angola
+899,1962,Angola
+900,1963,Angola
+901,1963,Angola
+902,1964,Angola
+903,1964,Angola
+904,1965,Angola
+905,1965,Angola
+906,1966,Angola
+907,1966,Angola
+908,1966,Angola
+909,1967,Angola
+910,1967,Angola
+911,1968,Angola
+912,1968,Angola
+913,1969,Angola
+914,1969,Angola
+915,1970,Angola
+916,1970,Angola
+917,1971,Angola
+918,1971,Angola
+919,1972,Angola
+920,1972,Angola
+921,1973,Angola
+922,1973,Angola
+923,1974,Angola
+924,1974,Angola
+925,1959,Myanmar
+926,1960,Myanmar
+927,1961,Myanmar
+928,1962,Myanmar
+929,1963,Myanmar
+930,1964,Myanmar
+931,1965,Myanmar
+932,1966,Myanmar
+933,1967,Myanmar
+934,1968,Myanmar
+935,1969,Myanmar
+936,1969,Myanmar
+937,1969,Myanmar
+938,1970,Myanmar
+939,1970,Myanmar
+940,1970,Myanmar
+941,1972,Myanmar
+942,1973,Myanmar
+943,1976,Myanmar
+944,1976,Myanmar
+945,1977,Myanmar
+946,1978,Myanmar
+947,1979,Myanmar
+948,1980,Myanmar
+949,1981,Myanmar
+950,1982,Myanmar
+951,1983,Myanmar
+952,1984,Myanmar
+953,1985,Myanmar
+954,1986,Myanmar
+955,1987,Myanmar
+956,1988,Myanmar
+957,1993,Myanmar
+958,1994,Myanmar
+959,1995,Myanmar
+960,1996,Myanmar
+961,1997,Myanmar
+962,1998,Myanmar
+963,1999,Myanmar
+964,2000,Myanmar
+965,2001,Myanmar
+966,2002,Myanmar
+967,2005,Myanmar
+968,2006,Myanmar
+969,2007,Myanmar
+970,2008,Myanmar
+971,2009,Myanmar
+972,2010,Myanmar
+973,2011,Myanmar
+974,2011,Myanmar
+975,2013,Myanmar
+976,2013,Myanmar
+977,2015,Myanmar
+978,1961,DR Congo (Zaire)
+979,1962,DR Congo (Zaire)
+980,2013,DR Congo (Zaire)
+981,2014,DR Congo (Zaire)
+982,1960,DR Congo (Zaire)
+983,1961,DR Congo (Zaire)
+984,1962,DR Congo (Zaire)
+985,1960,Ethiopia
+986,1976,Ethiopia
+987,1976,Ethiopia
+988,1977,Ethiopia
+989,1977,Ethiopia
+990,1978,Ethiopia
+991,1978,Ethiopia
+992,1979,Ethiopia
+993,1980,Ethiopia
+994,1981,Ethiopia
+995,1982,Ethiopia
+996,1983,Ethiopia
+997,1983,Ethiopia
+998,1984,Ethiopia
+999,1984,Ethiopia
+1000,1984,Ethiopia
+1001,1985,Ethiopia
+1002,1985,Ethiopia
+1003,1985,Ethiopia
+1004,1986,Ethiopia
+1005,1986,Ethiopia
+1006,1987,Ethiopia
+1007,1987,Ethiopia
+1008,1988,Ethiopia
+1009,1989,Ethiopia
+1010,1989,Ethiopia
+1011,1990,Ethiopia
+1012,1991,Ethiopia
+1013,1991,Ethiopia
+1014,1964,Ethiopia
+1015,1964,Somalia
+1016,1977,Ethiopia
+1017,1977,Somalia
+1018,1978,Ethiopia
+1019,1978,Somalia
+1020,1980,Ethiopia
+1021,1980,Somalia
+1022,1960,Nepal
+1023,1961,Nepal
+1024,1962,Nepal
+1025,1996,Nepal
+1026,1997,Nepal
+1027,1998,Nepal
+1028,1999,Nepal
+1029,2000,Nepal
+1030,2001,Nepal
+1031,2002,Nepal
+1032,2003,Nepal
+1033,2004,Nepal
+1034,2005,Nepal
+1035,2006,Nepal
+1036,1961,France
+1037,1962,France
+1038,1961,Iraq
+1039,1962,Iraq
+1040,1963,Iraq
+1041,1964,Iraq
+1042,1965,Iraq
+1043,1966,Iraq
+1044,1967,Iraq
+1045,1968,Iraq
+1046,1969,Iraq
+1047,1970,Iraq
+1048,1973,Iraq
+1049,1974,Iraq
+1050,1975,Iraq
+1051,1976,Iraq
+1052,1977,Iraq
+1053,1977,Iraq
+1054,1978,Iraq
+1055,1978,Iraq
+1056,1979,Iraq
+1057,1980,Iraq
+1058,1980,Iraq
+1059,1981,Iraq
+1060,1981,Iraq
+1061,1982,Iraq
+1062,1982,Iraq
+1063,1983,Iraq
+1064,1983,Iraq
+1065,1984,Iraq
+1066,1985,Iraq
+1067,1986,Iraq
+1068,1986,Iraq
+1069,1987,Iraq
+1070,1987,Iraq
+1071,1988,Iraq
+1072,1988,Iraq
+1073,1989,Iraq
+1074,1989,Iraq
+1075,1990,Iraq
+1076,1990,Iraq
+1077,1991,Iraq
+1078,1991,Iraq
+1079,1992,Iraq
+1080,1995,Iraq
+1081,1996,Iraq
+1082,1961,France
+1083,1961,Tunisia
+1084,1962,Brunei
+1085,1962,China
+1086,1962,India
+1087,1967,China
+1088,1967,India
+1089,1964,Ethiopia
+1090,1965,Ethiopia
+1091,1966,Ethiopia
+1092,1967,Ethiopia
+1093,1968,Ethiopia
+1094,1969,Ethiopia
+1095,1970,Ethiopia
+1096,1971,Ethiopia
+1097,1972,Ethiopia
+1098,1973,Ethiopia
+1099,1973,Ethiopia
+1100,1974,Ethiopia
+1101,1975,Ethiopia
+1102,1975,Ethiopia
+1103,1976,Ethiopia
+1104,1976,Ethiopia
+1105,1977,Ethiopia
+1106,1977,Ethiopia
+1107,1978,Ethiopia
+1108,1978,Ethiopia
+1109,1979,Ethiopia
+1110,1979,Ethiopia
+1111,1980,Ethiopia
+1112,1980,Ethiopia
+1113,1981,Ethiopia
+1114,1982,Ethiopia
+1115,1983,Ethiopia
+1116,1984,Ethiopia
+1117,1985,Ethiopia
+1118,1986,Ethiopia
+1119,1987,Ethiopia
+1120,1988,Ethiopia
+1121,1989,Ethiopia
+1122,1990,Ethiopia
+1123,1991,Ethiopia
+1124,1962,Indonesia
+1125,1962,Netherlands
+1126,1962,Venezuela
+1127,1982,Venezuela
+1128,1992,Venezuela
+1129,1963,Algeria
+1130,1963,Morocco
+1131,1963,Guinea-Bissau
+1132,1964,Guinea-Bissau
+1133,1965,Guinea-Bissau
+1134,1966,Guinea-Bissau
+1135,1967,Guinea-Bissau
+1136,1968,Guinea-Bissau
+1137,1969,Guinea-Bissau
+1138,1970,Guinea-Bissau
+1139,1971,Guinea-Bissau
+1140,1972,Guinea-Bissau
+1141,1973,Guinea-Bissau
+1142,1963,Malaysia
+1143,1964,Malaysia
+1144,1965,Malaysia
+1145,1966,Malaysia
+1146,1963,Indonesia
+1147,1963,Malaysia
+1148,1964,Indonesia
+1149,1964,Malaysia
+1150,1965,Indonesia
+1151,1965,Malaysia
+1152,1966,Indonesia
+1153,1966,Malaysia
+1154,1963,Sudan
+1155,1964,Sudan
+1156,1965,Sudan
+1157,1966,Sudan
+1158,1967,Sudan
+1159,1968,Sudan
+1160,1969,Sudan
+1161,1970,Sudan
+1162,1971,Sudan
+1163,1972,Sudan
+1164,1964,DR Congo (Zaire)
+1165,1965,DR Congo (Zaire)
+1166,1967,DR Congo (Zaire)
+1167,1977,DR Congo (Zaire)
+1168,1978,DR Congo (Zaire)
+1169,1996,DR Congo (Zaire)
+1170,1997,DR Congo (Zaire)
+1171,1998,DR Congo (Zaire)
+1172,1998,DR Congo (Zaire)
+1173,1999,DR Congo (Zaire)
+1174,1999,DR Congo (Zaire)
+1175,2000,DR Congo (Zaire)
+1176,2000,DR Congo (Zaire)
+1177,2001,DR Congo (Zaire)
+1178,2006,DR Congo (Zaire)
+1179,2007,DR Congo (Zaire)
+1180,2008,DR Congo (Zaire)
+1181,2011,DR Congo (Zaire)
+1182,2012,DR Congo (Zaire)
+1183,2012,DR Congo (Zaire)
+1184,2013,DR Congo (Zaire)
+1185,2013,DR Congo (Zaire)
+1186,2013,DR Congo (Zaire)
+1187,2014,DR Congo (Zaire)
+1188,2014,DR Congo (Zaire)
+1189,2016,DR Congo (Zaire)
+1190,1964,Gabon
+1191,1964,Mozambique
+1192,1965,Mozambique
+1193,1966,Mozambique
+1194,1967,Mozambique
+1195,1968,Mozambique
+1196,1969,Mozambique
+1197,1970,Mozambique
+1198,1971,Mozambique
+1199,1972,Mozambique
+1200,1973,Mozambique
+1201,1974,Mozambique
+1202,1964,South Yemen
+1203,1965,South Yemen
+1204,1966,South Yemen
+1205,1967,South Yemen
+1206,1965,Burundi
+1207,1991,Burundi
+1208,1992,Burundi
+1209,1994,Burundi
+1210,1995,Burundi
+1211,1996,Burundi
+1212,1997,Burundi
+1213,1997,Burundi
+1214,1997,Burundi
+1215,1998,Burundi
+1216,1998,Burundi
+1217,1998,Burundi
+1218,1999,Burundi
+1219,1999,Burundi
+1220,2000,Burundi
+1221,2000,Burundi
+1222,2001,Burundi
+1223,2001,Burundi
+1224,2002,Burundi
+1225,2002,Burundi
+1226,2003,Burundi
+1227,2003,Burundi
+1228,2004,Burundi
+1229,2005,Burundi
+1230,2006,Burundi
+1231,2008,Burundi
+1232,2014,Burundi
+1233,2015,Burundi
+1234,2015,Burundi
+1235,1966,Chad
+1236,1967,Chad
+1237,1968,Chad
+1238,1969,Chad
+1239,1970,Chad
+1240,1971,Chad
+1241,1971,Chad
+1242,1972,Chad
+1243,1976,Chad
+1244,1977,Chad
+1245,1977,Chad
+1246,1978,Chad
+1247,1979,Chad
+1248,1979,Chad
+1249,1980,Chad
+1250,1981,Chad
+1251,1982,Chad
+1252,1982,Chad
+1253,1983,Chad
+1254,1984,Chad
+1255,1986,Chad
+1256,1987,Chad
+1257,1989,Chad
+1258,1989,Chad
+1259,1989,Chad
+1260,1990,Chad
+1261,1990,Chad
+1262,1991,Chad
+1263,1991,Chad
+1264,1992,Chad
+1265,1992,Chad
+1266,1992,Chad
+1267,1992,Chad
+1268,1993,Chad
+1269,1993,Chad
+1270,1993,Chad
+1271,1993,Chad
+1272,1994,Chad
+1273,1994,Chad
+1274,1994,Chad
+1275,1997,Chad
+1276,1997,Chad
+1277,1998,Chad
+1278,1999,Chad
+1279,2000,Chad
+1280,2001,Chad
+1281,2002,Chad
+1282,2003,Chad
+1283,2005,Chad
+1284,2006,Chad
+1285,2006,Chad
+1286,2006,Chad
+1287,2007,Chad
+1288,2008,Chad
+1289,2009,Chad
+1290,2010,Chad
+1291,1964,Colombia
+1292,1965,Colombia
+1293,1966,Colombia
+1294,1966,Colombia
+1295,1967,Colombia
+1296,1968,Colombia
+1297,1969,Colombia
+1298,1970,Colombia
+1299,1971,Colombia
+1300,1972,Colombia
+1301,1973,Colombia
+1302,1974,Colombia
+1303,1975,Colombia
+1304,1976,Colombia
+1305,1977,Colombia
+1306,1978,Colombia
+1307,1978,Colombia
+1308,1979,Colombia
+1309,1979,Colombia
+1310,1980,Colombia
+1311,1981,Colombia
+1312,1981,Colombia
+1313,1982,Colombia
+1314,1982,Colombia
+1315,1983,Colombia
+1316,1983,Colombia
+1317,1984,Colombia
+1318,1984,Colombia
+1319,1984,Colombia
+1320,1984,Colombia
+1321,1985,Colombia
+1322,1985,Colombia
+1323,1985,Colombia
+1324,1986,Colombia
+1325,1986,Colombia
+1326,1986,Colombia
+1327,1987,Colombia
+1328,1987,Colombia
+1329,1987,Colombia
+1330,1988,Colombia
+1331,1988,Colombia
+1332,1988,Colombia
+1333,1988,Colombia
+1334,1989,Colombia
+1335,1989,Colombia
+1336,1989,Colombia
+1337,1990,Colombia
+1338,1990,Colombia
+1339,1990,Colombia
+1340,1991,Colombia
+1341,1991,Colombia
+1342,1992,Colombia
+1343,1992,Colombia
+1344,1993,Colombia
+1345,1993,Colombia
+1346,1994,Colombia
+1347,1994,Colombia
+1348,1995,Colombia
+1349,1995,Colombia
+1350,1996,Colombia
+1351,1996,Colombia
+1352,1997,Colombia
+1353,1997,Colombia
+1354,1998,Colombia
+1355,1998,Colombia
+1356,1999,Colombia
+1357,1999,Colombia
+1358,2000,Colombia
+1359,2000,Colombia
+1360,2001,Colombia
+1361,2001,Colombia
+1362,2002,Colombia
+1363,2002,Colombia
+1364,2003,Colombia
+1365,2003,Colombia
+1366,2004,Colombia
+1367,2004,Colombia
+1368,2004,Colombia
+1369,2005,Colombia
+1370,2005,Colombia
+1371,2006,Colombia
+1372,2006,Colombia
+1373,2007,Colombia
+1374,2008,Colombia
+1375,2008,Colombia
+1376,2009,Colombia
+1377,2010,Colombia
+1378,2010,Colombia
+1379,2011,Colombia
+1380,2012,Colombia
+1381,2013,Colombia
+1382,2013,Colombia
+1383,2014,Colombia
+1384,2015,Colombia
+1385,2015,Colombia
+1386,2016,Colombia
+1387,1965,Dominican Republic
+1388,1965,Indonesia
+1389,1967,Indonesia
+1390,1968,Indonesia
+1391,1969,Indonesia
+1392,1976,Indonesia
+1393,1977,Indonesia
+1394,1978,Indonesia
+1395,1981,Indonesia
+1396,1984,Indonesia
+1397,1965,Peru
+1398,1965,Peru
+1399,1982,Peru
+1400,1983,Peru
+1401,1984,Peru
+1402,1985,Peru
+1403,1986,Peru
+1404,1987,Peru
+1405,1988,Peru
+1406,1989,Peru
+1407,1989,Peru
+1408,1990,Peru
+1409,1990,Peru
+1410,1991,Peru
+1411,1991,Peru
+1412,1992,Peru
+1413,1992,Peru
+1414,1993,Peru
+1415,1993,Peru
+1416,1994,Peru
+1417,1995,Peru
+1418,1996,Peru
+1419,1997,Peru
+1420,1998,Peru
+1421,1999,Peru
+1422,2007,Peru
+1423,2008,Peru
+1424,2009,Peru
+1425,2010,Peru
+1426,1965,South Vietnam
+1427,1965,Vietnam (North Vietnam)
+1428,1966,South Vietnam
+1429,1966,Vietnam (North Vietnam)
+1430,1967,South Vietnam
+1431,1967,Vietnam (North Vietnam)
+1432,1968,South Vietnam
+1433,1968,Vietnam (North Vietnam)
+1434,1969,South Vietnam
+1435,1969,Vietnam (North Vietnam)
+1436,1970,South Vietnam
+1437,1970,Vietnam (North Vietnam)
+1438,1971,South Vietnam
+1439,1971,Vietnam (North Vietnam)
+1440,1972,South Vietnam
+1441,1972,Vietnam (North Vietnam)
+1442,1973,South Vietnam
+1443,1973,Vietnam (North Vietnam)
+1444,1974,South Vietnam
+1445,1974,Vietnam (North Vietnam)
+1446,1975,South Vietnam
+1447,1975,Vietnam (North Vietnam)
+1448,1977,Cambodia
+1449,1977,Thailand
+1450,1978,Cambodia
+1451,1978,Thailand
+1452,2011,Cambodia
+1453,2011,Thailand
+1454,1966,Ghana
+1455,1981,Ghana
+1456,1983,Ghana
+1457,1966,India
+1458,1967,India
+1459,1968,India
+1460,1966,Nigeria
+1461,2009,Nigeria
+1462,2011,Nigeria
+1463,2012,Nigeria
+1464,2013,Nigeria
+1465,2014,Nigeria
+1466,2015,Nigeria
+1467,2016,Nigeria
+1468,1966,South Africa
+1469,1967,South Africa
+1470,1968,South Africa
+1471,1969,South Africa
+1472,1970,South Africa
+1473,1971,South Africa
+1474,1972,South Africa
+1475,1973,South Africa
+1476,1974,South Africa
+1477,1975,South Africa
+1478,1976,South Africa
+1479,1977,South Africa
+1480,1978,South Africa
+1481,1979,South Africa
+1482,1980,South Africa
+1483,1981,South Africa
+1484,1982,South Africa
+1485,1983,South Africa
+1486,1984,South Africa
+1487,1985,South Africa
+1488,1986,South Africa
+1489,1987,South Africa
+1490,1988,South Africa
+1491,1966,Syria
+1492,1979,Syria
+1493,1980,Syria
+1494,1981,Syria
+1495,1982,Syria
+1496,2011,Syria
+1497,2012,Syria
+1498,2013,Syria
+1499,2014,Syria
+1500,2015,Syria
+1501,2016,Syria
+1502,1967,Cambodia
+1503,1968,Cambodia
+1504,1969,Cambodia
+1505,1970,Cambodia
+1506,1971,Cambodia
+1507,1972,Cambodia
+1508,1973,Cambodia
+1509,1974,Cambodia
+1510,1975,Cambodia
+1511,1978,Cambodia
+1512,1979,Cambodia
+1513,1979,Cambodia
+1514,1979,Cambodia
+1515,1980,Cambodia
+1516,1980,Cambodia
+1517,1981,Cambodia
+1518,1981,Cambodia
+1519,1982,Cambodia
+1520,1982,Cambodia
+1521,1982,Cambodia
+1522,1983,Cambodia
+1523,1983,Cambodia
+1524,1983,Cambodia
+1525,1984,Cambodia
+1526,1984,Cambodia
+1527,1984,Cambodia
+1528,1985,Cambodia
+1529,1985,Cambodia
+1530,1985,Cambodia
+1531,1986,Cambodia
+1532,1986,Cambodia
+1533,1986,Cambodia
+1534,1987,Cambodia
+1535,1987,Cambodia
+1536,1987,Cambodia
+1537,1988,Cambodia
+1538,1988,Cambodia
+1539,1988,Cambodia
+1540,1989,Cambodia
+1541,1989,Cambodia
+1542,1989,Cambodia
+1543,1990,Cambodia
+1544,1990,Cambodia
+1545,1991,Cambodia
+1546,1991,Cambodia
+1547,1991,Cambodia
+1548,1992,Cambodia
+1549,1993,Cambodia
+1550,1994,Cambodia
+1551,1995,Cambodia
+1552,1996,Cambodia
+1553,1997,Cambodia
+1554,1997,Cambodia
+1555,1998,Cambodia
+1556,1967,Israel
+1557,1967,Jordan
+1558,1967,Israel
+1559,1967,Syria
+1560,1973,Israel
+1561,1973,Syria
+1562,1967,Nigeria
+1563,1968,Nigeria
+1564,1969,Nigeria
+1565,1970,Nigeria
+1566,1969,China
+1567,1969,Myanmar
+1568,1969,China
+1569,1969,Russia
+1570,1969,El Salvador
+1571,1969,Honduras
+1572,2000,Guinea
+1573,2001,Guinea
+1574,1970,Philippines
+1575,1971,Philippines
+1576,1972,Philippines
+1577,1973,Philippines
+1578,1974,Philippines
+1579,1975,Philippines
+1580,1976,Philippines
+1581,1977,Philippines
+1582,1978,Philippines
+1583,1979,Philippines
+1584,1980,Philippines
+1585,1981,Philippines
+1586,1982,Philippines
+1587,1983,Philippines
+1588,1984,Philippines
+1589,1985,Philippines
+1590,1986,Philippines
+1591,1987,Philippines
+1592,1988,Philippines
+1593,1989,Philippines
+1594,1990,Philippines
+1595,1990,Philippines
+1596,1993,Philippines
+1597,1993,Philippines
+1598,1994,Philippines
+1599,1994,Philippines
+1600,1995,Philippines
+1601,1996,Philippines
+1602,1996,Philippines
+1603,1997,Philippines
+1604,1997,Philippines
+1605,1998,Philippines
+1606,1998,Philippines
+1607,1999,Philippines
+1608,2000,Philippines
+1609,2000,Philippines
+1610,2001,Philippines
+1611,2001,Philippines
+1612,2001,Philippines
+1613,2002,Philippines
+1614,2002,Philippines
+1615,2003,Philippines
+1616,2003,Philippines
+1617,2004,Philippines
+1618,2004,Philippines
+1619,2005,Philippines
+1620,2005,Philippines
+1621,2005,Philippines
+1622,2006,Philippines
+1623,2007,Philippines
+1624,2007,Philippines
+1625,2007,Philippines
+1626,2008,Philippines
+1627,2009,Philippines
+1628,2009,Philippines
+1629,2010,Philippines
+1630,2011,Philippines
+1631,2011,Philippines
+1632,2012,Philippines
+1633,2012,Philippines
+1634,2013,Philippines
+1635,2013,Philippines
+1636,2013,Philippines
+1637,2014,Philippines
+1638,2014,Philippines
+1639,2015,Philippines
+1640,2015,Philippines
+1641,2015,Philippines
+1642,2016,Philippines
+1643,2016,Philippines
+1644,1971,Sudan
+1645,1976,Sudan
+1646,1983,Sudan
+1647,1984,Sudan
+1648,1985,Sudan
+1649,1986,Sudan
+1650,1987,Sudan
+1651,1988,Sudan
+1652,1989,Sudan
+1653,1990,Sudan
+1654,1991,Sudan
+1655,1992,Sudan
+1656,1993,Sudan
+1657,1994,Sudan
+1658,1995,Sudan
+1659,1996,Sudan
+1660,1996,Sudan
+1661,1997,Sudan
+1662,1997,Sudan
+1663,1998,Sudan
+1664,1998,Sudan
+1665,1999,Sudan
+1666,1999,Sudan
+1667,2000,Sudan
+1668,2000,Sudan
+1669,2001,Sudan
+1670,2001,Sudan
+1671,2002,Sudan
+1672,2003,Sudan
+1673,2003,Sudan
+1674,2003,Sudan
+1675,2004,Sudan
+1676,2004,Sudan
+1677,2004,Sudan
+1678,2005,Sudan
+1679,2006,Sudan
+1680,2006,Sudan
+1681,2006,Sudan
+1682,2007,Sudan
+1683,2007,Sudan
+1684,2008,Sudan
+1685,2008,Sudan
+1686,2008,Sudan
+1687,2009,Sudan
+1688,2009,Sudan
+1689,2010,Sudan
+1690,2010,Sudan
+1691,2010,Sudan
+1692,2011,Sudan
+1693,2011,Sudan
+1694,2011,Sudan
+1695,2011,Sudan
+1696,2011,Sudan
+1697,2011,Sudan
+1698,2012,Sudan
+1699,2013,Sudan
+1700,2014,Sudan
+1701,2014,Sudan
+1702,2014,Sudan
+1703,2015,Sudan
+1704,2015,Sudan
+1705,2016,Sudan
+1706,1971,Madagascar (Malagasy)
+1707,1971,Morocco
+1708,1971,Pakistan
+1709,1971,Sri Lanka
+1710,1989,Sri Lanka
+1711,1990,Sri Lanka
+1712,1971,Uganda
+1713,1972,Uganda
+1714,1974,Uganda
+1715,1979,Uganda
+1716,1979,Uganda
+1717,1979,Uganda
+1718,1980,Uganda
+1719,1981,Uganda
+1720,1981,Uganda
+1721,1981,Uganda
+1722,1982,Uganda
+1723,1982,Uganda
+1724,1982,Uganda
+1725,1983,Uganda
+1726,1983,Uganda
+1727,1984,Uganda
+1728,1985,Uganda
+1729,1986,Uganda
+1730,1986,Uganda
+1731,1986,Uganda
+1732,1987,Uganda
+1733,1987,Uganda
+1734,1987,Uganda
+1735,1988,Uganda
+1736,1988,Uganda
+1737,1988,Uganda
+1738,1989,Uganda
+1739,1989,Uganda
+1740,1990,Uganda
+1741,1990,Uganda
+1742,1991,Uganda
+1743,1991,Uganda
+1744,1992,Uganda
+1745,1994,Uganda
+1746,1995,Uganda
+1747,1996,Uganda
+1748,1996,Uganda
+1749,1996,Uganda
+1750,1997,Uganda
+1751,1997,Uganda
+1752,1997,Uganda
+1753,1998,Uganda
+1754,1998,Uganda
+1755,1999,Uganda
+1756,2000,Uganda
+1757,2000,Uganda
+1758,2001,Uganda
+1759,2001,Uganda
+1760,2002,Uganda
+1761,2002,Uganda
+1762,2003,Uganda
+1763,2004,Uganda
+1764,2005,Uganda
+1765,2006,Uganda
+1766,2007,Uganda
+1767,2008,Uganda
+1768,2009,Uganda
+1769,2010,Uganda
+1770,2010,Uganda
+1771,2011,Uganda
+1772,2011,Uganda
+1773,2013,Uganda
+1774,2013,Uganda
+1775,2014,Uganda
+1776,2014,Uganda
+1777,2015,Uganda
+1778,2016,Uganda
+1779,1971,United Kingdom
+1780,1972,United Kingdom
+1781,1973,United Kingdom
+1782,1974,United Kingdom
+1783,1975,United Kingdom
+1784,1976,United Kingdom
+1785,1977,United Kingdom
+1786,1978,United Kingdom
+1787,1979,United Kingdom
+1788,1980,United Kingdom
+1789,1981,United Kingdom
+1790,1982,United Kingdom
+1791,1983,United Kingdom
+1792,1984,United Kingdom
+1793,1985,United Kingdom
+1794,1986,United Kingdom
+1795,1987,United Kingdom
+1796,1988,United Kingdom
+1797,1989,United Kingdom
+1798,1990,United Kingdom
+1799,1991,United Kingdom
+1800,1998,United Kingdom
+1801,1972,El Salvador
+1802,1979,El Salvador
+1803,1979,El Salvador
+1804,1980,El Salvador
+1805,1981,El Salvador
+1806,1982,El Salvador
+1807,1983,El Salvador
+1808,1984,El Salvador
+1809,1985,El Salvador
+1810,1986,El Salvador
+1811,1987,El Salvador
+1812,1988,El Salvador
+1813,1989,El Salvador
+1814,1990,El Salvador
+1815,1991,El Salvador
+1816,1969,Oman
+1817,1970,Oman
+1818,1971,Oman
+1819,1972,Oman
+1820,1973,Oman
+1821,1974,Oman
+1822,1975,Oman
+1823,1967,Zimbabwe (Rhodesia)
+1824,1968,Zimbabwe (Rhodesia)
+1825,1973,Zimbabwe (Rhodesia)
+1826,1973,Zimbabwe (Rhodesia)
+1827,1974,Zimbabwe (Rhodesia)
+1828,1974,Zimbabwe (Rhodesia)
+1829,1975,Zimbabwe (Rhodesia)
+1830,1976,Zimbabwe (Rhodesia)
+1831,1976,Zimbabwe (Rhodesia)
+1832,1977,Zimbabwe (Rhodesia)
+1833,1978,Zimbabwe (Rhodesia)
+1834,1979,Zimbabwe (Rhodesia)
+1835,1972,Uruguay
+1836,1972,South Yemen
+1837,1972,Yemen (North Yemen)
+1838,1979,South Yemen
+1839,1979,Yemen (North Yemen)
+1840,1973,Chile
+1841,1975,Bangladesh
+1842,1976,Bangladesh
+1843,1977,Bangladesh
+1844,1978,Bangladesh
+1845,1979,Bangladesh
+1846,1980,Bangladesh
+1847,1981,Bangladesh
+1848,1982,Bangladesh
+1849,1983,Bangladesh
+1850,1984,Bangladesh
+1851,1985,Bangladesh
+1852,1986,Bangladesh
+1853,1987,Bangladesh
+1854,1988,Bangladesh
+1855,1989,Bangladesh
+1856,1990,Bangladesh
+1857,1991,Bangladesh
+1858,1974,Cyprus
+1859,1974,Turkey
+1860,1974,Iran
+1861,1974,Iraq
+1862,1980,Iran
+1863,1980,Iraq
+1864,1981,Iran
+1865,1981,Iraq
+1866,1982,Iran
+1867,1982,Iraq
+1868,1983,Iran
+1869,1983,Iraq
+1870,1984,Iran
+1871,1984,Iraq
+1872,1985,Iran
+1873,1985,Iraq
+1874,1986,Iran
+1875,1986,Iraq
+1876,1987,Iran
+1877,1987,Iraq
+1878,1988,Iran
+1879,1988,Iraq
+1880,1974,Pakistan
+1881,1975,Pakistan
+1882,1976,Pakistan
+1883,1977,Pakistan
+1884,2004,Pakistan
+1885,2006,Pakistan
+1886,2006,Pakistan
+1887,2007,Pakistan
+1888,2008,Pakistan
+1889,2008,Pakistan
+1890,2009,Pakistan
+1891,2009,Pakistan
+1892,2011,Pakistan
+1893,2012,Pakistan
+1894,2012,Pakistan
+1895,2012,Pakistan
+1896,2013,Pakistan
+1897,2014,Pakistan
+1898,2014,Pakistan
+1899,2015,Pakistan
+1900,2015,Pakistan
+1901,2015,Pakistan
+1902,2016,Pakistan
+1903,2016,Pakistan
+1904,1997,Eritrea
+1905,1999,Eritrea
+1906,2003,Eritrea
+1907,1975,Angola
+1908,1975,Angola
+1909,1976,Angola
+1910,1976,Angola
+1911,1977,Angola
+1912,1977,Angola
+1913,1978,Angola
+1914,1978,Angola
+1915,1979,Angola
+1916,1979,Angola
+1917,1980,Angola
+1918,1981,Angola
+1919,1982,Angola
+1920,1983,Angola
+1921,1984,Angola
+1922,1985,Angola
+1923,1986,Angola
+1924,1987,Angola
+1925,1988,Angola
+1926,1989,Angola
+1927,1990,Angola
+1928,1991,Angola
+1929,1992,Angola
+1930,1993,Angola
+1931,1994,Angola
+1932,1995,Angola
+1933,1998,Angola
+1934,1999,Angola
+1935,2000,Angola
+1936,2001,Angola
+1937,2002,Angola
+1938,1975,Cambodia
+1939,1975,Vietnam (North Vietnam)
+1940,1976,Cambodia
+1941,1976,Vietnam (North Vietnam)
+1942,1977,Cambodia
+1943,1977,Vietnam (North Vietnam)
+1944,1964,Ethiopia
+1945,1976,Ethiopia
+1946,1977,Ethiopia
+1947,1978,Ethiopia
+1948,1979,Ethiopia
+1949,1980,Ethiopia
+1950,1981,Ethiopia
+1951,1982,Ethiopia
+1952,1983,Ethiopia
+1953,1993,Ethiopia
+1954,1994,Ethiopia
+1955,1996,Ethiopia
+1956,1996,Ethiopia
+1957,1998,Ethiopia
+1958,1999,Ethiopia
+1959,1999,Ethiopia
+1960,2000,Ethiopia
+1961,2001,Ethiopia
+1962,2002,Ethiopia
+1963,2003,Ethiopia
+1964,2004,Ethiopia
+1965,2005,Ethiopia
+1966,2006,Ethiopia
+1967,2007,Ethiopia
+1968,2008,Ethiopia
+1969,2009,Ethiopia
+1970,2010,Ethiopia
+1971,2011,Ethiopia
+1972,2012,Ethiopia
+1973,2013,Ethiopia
+1974,2014,Ethiopia
+1975,2015,Ethiopia
+1976,2016,Ethiopia
+1977,1975,Indonesia
+1978,1976,Indonesia
+1979,1977,Indonesia
+1980,1978,Indonesia
+1981,1979,Indonesia
+1982,1980,Indonesia
+1983,1981,Indonesia
+1984,1982,Indonesia
+1985,1983,Indonesia
+1986,1984,Indonesia
+1987,1985,Indonesia
+1988,1986,Indonesia
+1989,1987,Indonesia
+1990,1988,Indonesia
+1991,1992,Indonesia
+1992,1997,Indonesia
+1993,1998,Indonesia
+1994,1999,Indonesia
+1995,1975,Morocco
+1996,1976,Morocco
+1997,1977,Morocco
+1998,1978,Morocco
+1999,1979,Morocco
+2000,1980,Morocco
+2001,1981,Morocco
+2002,1982,Morocco
+2003,1983,Morocco
+2004,1984,Morocco
+2005,1985,Morocco
+2006,1986,Morocco
+2007,1987,Morocco
+2008,1988,Morocco
+2009,1989,Morocco
+2010,1977,Mozambique
+2011,1978,Mozambique
+2012,1979,Mozambique
+2013,1980,Mozambique
+2014,1981,Mozambique
+2015,1982,Mozambique
+2016,1983,Mozambique
+2017,1984,Mozambique
+2018,1985,Mozambique
+2019,1986,Mozambique
+2020,1987,Mozambique
+2021,1988,Mozambique
+2022,1989,Mozambique
+2023,1990,Mozambique
+2024,1991,Mozambique
+2025,1992,Mozambique
+2026,2013,Mozambique
+2027,2016,Mozambique
+2028,1978,Afghanistan
+2029,1979,Afghanistan
+2030,1980,Afghanistan
+2031,1980,Afghanistan
+2032,1980,Afghanistan
+2033,1980,Afghanistan
+2034,1980,Afghanistan
+2035,1980,Afghanistan
+2036,1981,Afghanistan
+2037,1981,Afghanistan
+2038,1981,Afghanistan
+2039,1981,Afghanistan
+2040,1981,Afghanistan
+2041,1981,Afghanistan
+2042,1981,Afghanistan
+2043,1982,Afghanistan
+2044,1982,Afghanistan
+2045,1982,Afghanistan
+2046,1982,Afghanistan
+2047,1982,Afghanistan
+2048,1982,Afghanistan
+2049,1982,Afghanistan
+2050,1983,Afghanistan
+2051,1983,Afghanistan
+2052,1983,Afghanistan
+2053,1983,Afghanistan
+2054,1983,Afghanistan
+2055,1983,Afghanistan
+2056,1983,Afghanistan
+2057,1984,Afghanistan
+2058,1984,Afghanistan
+2059,1984,Afghanistan
+2060,1984,Afghanistan
+2061,1984,Afghanistan
+2062,1984,Afghanistan
+2063,1984,Afghanistan
+2064,1984,Afghanistan
+2065,1985,Afghanistan
+2066,1985,Afghanistan
+2067,1985,Afghanistan
+2068,1985,Afghanistan
+2069,1985,Afghanistan
+2070,1985,Afghanistan
+2071,1985,Afghanistan
+2072,1986,Afghanistan
+2073,1986,Afghanistan
+2074,1986,Afghanistan
+2075,1986,Afghanistan
+2076,1986,Afghanistan
+2077,1986,Afghanistan
+2078,1986,Afghanistan
+2079,1987,Afghanistan
+2080,1987,Afghanistan
+2081,1987,Afghanistan
+2082,1987,Afghanistan
+2083,1987,Afghanistan
+2084,1987,Afghanistan
+2085,1987,Afghanistan
+2086,1988,Afghanistan
+2087,1988,Afghanistan
+2088,1988,Afghanistan
+2089,1988,Afghanistan
+2090,1988,Afghanistan
+2091,1988,Afghanistan
+2092,1988,Afghanistan
+2093,1989,Afghanistan
+2094,1989,Afghanistan
+2095,1989,Afghanistan
+2096,1989,Afghanistan
+2097,1989,Afghanistan
+2098,1990,Afghanistan
+2099,1990,Afghanistan
+2100,1990,Afghanistan
+2101,1990,Afghanistan
+2102,1990,Afghanistan
+2103,1991,Afghanistan
+2104,1991,Afghanistan
+2105,1991,Afghanistan
+2106,1991,Afghanistan
+2107,1992,Afghanistan
+2108,1992,Afghanistan
+2109,1992,Afghanistan
+2110,1993,Afghanistan
+2111,1993,Afghanistan
+2112,1993,Afghanistan
+2113,1994,Afghanistan
+2114,1994,Afghanistan
+2115,1994,Afghanistan
+2116,1995,Afghanistan
+2117,1995,Afghanistan
+2118,1995,Afghanistan
+2119,1995,Afghanistan
+2120,1996,Afghanistan
+2121,1996,Afghanistan
+2122,1996,Afghanistan
+2123,1997,Afghanistan
+2124,1998,Afghanistan
+2125,1999,Afghanistan
+2126,2000,Afghanistan
+2127,2001,Afghanistan
+2128,2002,Afghanistan
+2129,2003,Afghanistan
+2130,2003,Afghanistan
+2131,2004,Afghanistan
+2132,2005,Afghanistan
+2133,2006,Afghanistan
+2134,2006,Afghanistan
+2135,2007,Afghanistan
+2136,2008,Afghanistan
+2137,2008,Afghanistan
+2138,2009,Afghanistan
+2139,2009,Afghanistan
+2140,2010,Afghanistan
+2141,2010,Afghanistan
+2142,2011,Afghanistan
+2143,2011,Afghanistan
+2144,2012,Afghanistan
+2145,2013,Afghanistan
+2146,2013,Afghanistan
+2147,2014,Afghanistan
+2148,2015,Afghanistan
+2149,2016,Afghanistan
+2150,1974,China
+2151,1974,Vietnam (North Vietnam)
+2152,1978,China
+2153,1978,Vietnam (North Vietnam)
+2154,1979,China
+2155,1979,Vietnam (North Vietnam)
+2156,1980,China
+2157,1980,Vietnam (North Vietnam)
+2158,1981,China
+2159,1981,Vietnam (North Vietnam)
+2160,1983,China
+2161,1983,Vietnam (North Vietnam)
+2162,1984,China
+2163,1984,Vietnam (North Vietnam)
+2164,1986,China
+2165,1986,Vietnam (North Vietnam)
+2166,1987,China
+2167,1987,Vietnam (North Vietnam)
+2168,1988,China
+2169,1988,Vietnam (North Vietnam)
+2170,1979,India
+2171,1980,India
+2172,1981,India
+2173,1982,India
+2174,1983,India
+2175,1984,India
+2176,1985,India
+2177,1986,India
+2178,1987,India
+2179,1988,India
+2180,1992,India
+2181,1997,India
+2182,1997,India
+2183,1999,India
+2184,2000,India
+2185,2001,India
+2186,2002,India
+2187,2003,India
+2188,2004,India
+2189,1977,Nicaragua
+2190,1978,Nicaragua
+2191,1979,Nicaragua
+2192,1982,Nicaragua
+2193,1983,Nicaragua
+2194,1984,Nicaragua
+2195,1985,Nicaragua
+2196,1986,Nicaragua
+2197,1987,Nicaragua
+2198,1988,Nicaragua
+2199,1989,Nicaragua
+2200,1990,Nicaragua
+2201,1982,Somalia
+2202,1983,Somalia
+2203,1983,Somalia
+2204,1984,Somalia
+2205,1984,Somalia
+2206,1986,Somalia
+2207,1987,Somalia
+2208,1988,Somalia
+2209,1989,Somalia
+2210,1989,Somalia
+2211,1990,Somalia
+2212,1990,Somalia
+2213,1990,Somalia
+2214,1991,Somalia
+2215,1991,Somalia
+2216,1991,Somalia
+2217,1991,Somalia
+2218,1992,Somalia
+2219,1993,Somalia
+2220,1994,Somalia
+2221,1995,Somalia
+2222,1996,Somalia
+2223,2001,Somalia
+2224,2002,Somalia
+2225,2006,Somalia
+2226,2007,Somalia
+2227,2008,Somalia
+2228,2008,Somalia
+2229,2009,Somalia
+2230,2009,Somalia
+2231,2010,Somalia
+2232,2010,Somalia
+2233,2011,Somalia
+2234,2012,Somalia
+2235,2013,Somalia
+2236,2014,Somalia
+2237,2015,Somalia
+2238,2016,Somalia
+2239,1979,Iran
+2240,1980,Iran
+2241,1981,Iran
+2242,1982,Iran
+2243,1986,Iran
+2244,1987,Iran
+2245,1988,Iran
+2246,1991,Iran
+2247,1993,Iran
+2248,1997,Iran
+2249,1999,Iran
+2250,2000,Iran
+2251,2001,Iran
+2252,2005,Iran
+2253,2006,Iran
+2254,2006,Iran
+2255,2007,Iran
+2256,2007,Iran
+2257,2008,Iran
+2258,2008,Iran
+2259,2009,Iran
+2260,2009,Iran
+2261,2010,Iran
+2262,2011,Iran
+2263,1979,Iran
+2264,1980,Iran
+2265,1979,Saudi Arabia
+2266,1980,Liberia
+2267,1989,Liberia
+2268,1990,Liberia
+2269,1990,Liberia
+2270,2000,Liberia
+2271,2001,Liberia
+2272,2002,Liberia
+2273,2003,Liberia
+2274,2003,Liberia
+2275,1978,Spain
+2276,1979,Spain
+2277,1980,Spain
+2278,1981,Spain
+2279,1982,Spain
+2280,1985,Spain
+2281,1986,Spain
+2282,1987,Spain
+2283,1991,Spain
+2284,1980,Tunisia
+2285,1981,Gambia
+2286,1981,South Africa
+2287,1982,South Africa
+2288,1983,South Africa
+2289,1985,South Africa
+2290,1986,South Africa
+2291,1987,South Africa
+2292,1988,South Africa
+2293,1982,Argentina
+2294,1982,United Kingdom
+2295,1982,India
+2296,1983,India
+2297,1984,India
+2298,1985,India
+2299,1986,India
+2300,1987,India
+2301,1988,India
+2302,1993,India
+2303,1994,India
+2304,1995,India
+2305,1996,India
+2306,1998,India
+2307,1999,India
+2308,2000,India
+2309,2000,India
+2310,2003,India
+2311,2004,India
+2312,2004,India
+2313,2005,India
+2314,2006,India
+2315,2006,India
+2316,2007,India
+2317,2008,India
+2318,2008,India
+2319,2009,India
+2320,2009,India
+2321,2009,India
+2322,1982,Kenya
+2323,1983,Chad
+2324,1983,Nigeria
+2325,1983,Grenada
+2326,1983,United States of America
+2327,1983,India
+2328,1984,India
+2329,1985,India
+2330,1986,India
+2331,1987,India
+2332,1988,India
+2333,1989,India
+2334,1990,India
+2335,1991,India
+2336,1992,India
+2337,1993,India
+2338,1984,Sri Lanka
+2339,1984,Sri Lanka
+2340,1985,Sri Lanka
+2341,1985,Sri Lanka
+2342,1985,Sri Lanka
+2343,1986,Sri Lanka
+2344,1987,Sri Lanka
+2345,1988,Sri Lanka
+2346,1989,Sri Lanka
+2347,1989,Sri Lanka
+2348,1990,Sri Lanka
+2349,1991,Sri Lanka
+2350,1992,Sri Lanka
+2351,1993,Sri Lanka
+2352,1994,Sri Lanka
+2353,1995,Sri Lanka
+2354,1996,Sri Lanka
+2355,1997,Sri Lanka
+2356,1998,Sri Lanka
+2357,1999,Sri Lanka
+2358,2000,Sri Lanka
+2359,2001,Sri Lanka
+2360,2003,Sri Lanka
+2361,2005,Sri Lanka
+2362,2006,Sri Lanka
+2363,2007,Sri Lanka
+2364,2008,Sri Lanka
+2365,2009,Sri Lanka
+2366,1960,Cameroon
+2367,1961,Cameroon
+2368,1984,Cameroon
+2369,2015,Cameroon
+2370,2016,Cameroon
+2371,1984,Turkey
+2372,1985,Turkey
+2373,1986,Turkey
+2374,1987,Turkey
+2375,1988,Turkey
+2376,1989,Turkey
+2377,1990,Turkey
+2378,1991,Turkey
+2379,1992,Turkey
+2380,1993,Turkey
+2381,1994,Turkey
+2382,1995,Turkey
+2383,1996,Turkey
+2384,1997,Turkey
+2385,1998,Turkey
+2386,1999,Turkey
+2387,2000,Turkey
+2388,2001,Turkey
+2389,2002,Turkey
+2390,2003,Turkey
+2391,2004,Turkey
+2392,2005,Turkey
+2393,2006,Turkey
+2394,2007,Turkey
+2395,2008,Turkey
+2396,2009,Turkey
+2397,2010,Turkey
+2398,2011,Turkey
+2399,2012,Turkey
+2400,2013,Turkey
+2401,2015,Turkey
+2402,2016,Turkey
+2403,1985,Burkina Faso
+2404,1985,Mali
+2405,1986,Laos
+2406,1986,Thailand
+2407,1987,Laos
+2408,1987,Thailand
+2409,1988,Laos
+2410,1988,Thailand
+2411,1987,Suriname
+2412,1986,Togo
+2413,1986,South Yemen
+2414,1987,Burkina Faso
+2415,1987,Chad
+2416,1987,Libya
+2417,1989,Comoros
+2418,1975,Ethiopia
+2419,1976,Ethiopia
+2420,1996,Ethiopia
+2421,1990,India
+2422,1991,India
+2423,1992,India
+2424,1993,India
+2425,1994,India
+2426,1995,India
+2427,1996,India
+2428,1997,India
+2429,1998,India
+2430,1999,India
+2431,2000,India
+2432,2001,India
+2433,2002,India
+2434,2003,India
+2435,2004,India
+2436,2005,India
+2437,2006,India
+2438,2007,India
+2439,2008,India
+2440,2009,India
+2441,2010,India
+2442,2011,India
+2443,2012,India
+2444,2013,India
+2445,2014,India
+2446,2015,India
+2447,2016,India
+2448,1990,India
+2449,1994,India
+2450,1995,India
+2451,1996,India
+2452,1997,India
+2453,1998,India
+2454,1999,India
+2455,2000,India
+2456,2001,India
+2457,2002,India
+2458,2003,India
+2459,2004,India
+2460,2005,India
+2461,2006,India
+2462,2007,India
+2463,2008,India
+2464,2009,India
+2465,2010,India
+2466,1990,Indonesia
+2467,1991,Indonesia
+2468,1999,Indonesia
+2469,2000,Indonesia
+2470,2001,Indonesia
+2471,2002,Indonesia
+2472,2003,Indonesia
+2473,2004,Indonesia
+2474,2005,Indonesia
+2475,1989,Panama
+2476,1989,Panama
+2477,1989,United States of America
+2478,1990,Papua New Guinea
+2479,1992,Papua New Guinea
+2480,1993,Papua New Guinea
+2481,1994,Papua New Guinea
+2482,1995,Papua New Guinea
+2483,1996,Papua New Guinea
+2484,1989,Rumania
+2485,1989,Rumania
+2486,1990,Iraq
+2487,1990,Kuwait
+2488,1991,Iraq
+2489,1991,Kuwait
+2490,1990,Mali
+2491,1994,Mali
+2492,2007,Mali
+2493,2008,Mali
+2494,2009,Mali
+2495,2012,Mali
+2496,2014,Mali
+2497,2015,Mali
+2498,1994,Niger
+2499,1990,Rwanda
+2500,1991,Rwanda
+2501,1992,Rwanda
+2502,1993,Rwanda
+2503,1994,Rwanda
+2504,1996,Rwanda
+2505,1997,Rwanda
+2506,1998,Rwanda
+2507,1999,Rwanda
+2508,2000,Rwanda
+2509,2001,Rwanda
+2510,2002,Rwanda
+2511,2009,Rwanda
+2512,2010,Rwanda
+2513,2011,Rwanda
+2514,2012,Rwanda
+2515,2016,Rwanda
+2516,1990,Senegal
+2517,1992,Senegal
+2518,1993,Senegal
+2519,1995,Senegal
+2520,1997,Senegal
+2521,1998,Senegal
+2522,2000,Senegal
+2523,2001,Senegal
+2524,2003,Senegal
+2525,2011,Senegal
+2526,1990,Russia
+2527,1991,Russia
+2528,1990,Russia
+2529,1990,Trinidad and Tobago
+2530,1991,Djibouti
+2531,1992,Djibouti
+2532,1993,Djibouti
+2533,1994,Djibouti
+2534,1999,Djibouti
+2535,1991,Georgia
+2536,1992,Georgia
+2537,1993,Georgia
+2538,1989,Haiti
+2539,1991,Haiti
+2540,2004,Haiti
+2541,2004,Haiti
+2542,1991,Sierra Leone
+2543,1992,Sierra Leone
+2544,1993,Sierra Leone
+2545,1994,Sierra Leone
+2546,1995,Sierra Leone
+2547,1996,Sierra Leone
+2548,1997,Sierra Leone
+2549,1997,Sierra Leone
+2550,1997,Sierra Leone
+2551,1998,Sierra Leone
+2552,1998,Sierra Leone
+2553,1998,Sierra Leone
+2554,1999,Sierra Leone
+2555,1999,Sierra Leone
+2556,2000,Sierra Leone
+2557,2000,Sierra Leone
+2558,2001,Sierra Leone
+2559,1991,Turkey
+2560,1992,Turkey
+2561,2005,Turkey
+2562,2016,Turkey
+2563,2016,Turkey
+2564,1991,Serbia
+2565,1991,Serbia
+2566,1991,Serbia
+2567,1992,Serbia
+2568,1991,Algeria
+2569,1992,Algeria
+2570,1993,Algeria
+2571,1993,Algeria
+2572,1994,Algeria
+2573,1994,Algeria
+2574,1995,Algeria
+2575,1995,Algeria
+2576,1996,Algeria
+2577,1996,Algeria
+2578,1997,Algeria
+2579,1997,Algeria
+2580,1998,Algeria
+2581,1999,Algeria
+2582,1999,Algeria
+2583,2000,Algeria
+2584,2000,Algeria
+2585,2001,Algeria
+2586,2001,Algeria
+2587,2002,Algeria
+2588,2002,Algeria
+2589,2003,Algeria
+2590,2003,Algeria
+2591,2004,Algeria
+2592,2005,Algeria
+2593,2006,Algeria
+2594,2007,Algeria
+2595,2008,Algeria
+2596,2009,Algeria
+2597,2010,Algeria
+2598,2011,Algeria
+2599,2012,Algeria
+2600,2012,Algeria
+2601,2013,Algeria
+2602,2014,Algeria
+2603,2015,Algeria
+2604,2016,Algeria
+2605,1991,Angola
+2606,1994,Angola
+2607,1994,Angola
+2608,1996,Angola
+2609,1997,Angola
+2610,1997,Angola
+2611,1998,Angola
+2612,2002,Angola
+2613,2002,Angola
+2614,2004,Angola
+2615,2007,Angola
+2616,2009,Angola
+2617,1991,Azerbaijan
+2618,1992,Azerbaijan
+2619,1993,Azerbaijan
+2620,1994,Azerbaijan
+2621,1997,Azerbaijan
+2622,1998,Azerbaijan
+2623,2005,Azerbaijan
+2624,2008,Azerbaijan
+2625,2012,Azerbaijan
+2626,2014,Azerbaijan
+2627,2015,Azerbaijan
+2628,2016,Azerbaijan
+2629,1992,Bosnia-Herzegovina
+2630,1992,Bosnia-Herzegovina
+2631,1993,Bosnia-Herzegovina
+2632,1993,Bosnia-Herzegovina
+2633,1994,Bosnia-Herzegovina
+2634,1994,Bosnia-Herzegovina
+2635,1995,Bosnia-Herzegovina
+2636,1995,Bosnia-Herzegovina
+2637,1992,Croatia
+2638,1992,Croatia
+2639,1993,Croatia
+2640,1995,Croatia
+2641,1993,Egypt
+2642,1994,Egypt
+2643,1995,Egypt
+2644,1996,Egypt
+2645,1997,Egypt
+2646,1998,Egypt
+2647,2014,Egypt
+2648,1992,Georgia
+2649,1993,Georgia
+2650,1992,Georgia
+2651,2004,Georgia
+2652,2008,Georgia
+2653,1992,Moldova
+2654,1992,Tajikistan
+2655,1992,Tajikistan
+2656,1993,Tajikistan
+2657,1994,Tajikistan
+2658,1995,Tajikistan
+2659,1996,Tajikistan
+2660,1997,Tajikistan
+2661,1998,Tajikistan
+2662,1998,Tajikistan
+2663,2000,Tajikistan
+2664,2010,Tajikistan
+2665,2010,Tajikistan
+2666,2011,Tajikistan
+2667,1993,Azerbaijan
+2668,1995,Azerbaijan
+2669,1993,Bosnia-Herzegovina
+2670,1994,Bosnia-Herzegovina
+2671,1995,Bosnia-Herzegovina
+2672,1993,Bosnia-Herzegovina
+2673,1993,Bosnia-Herzegovina
+2674,1994,Bosnia-Herzegovina
+2675,1994,Bosnia-Herzegovina
+2676,1993,Russia
+2677,1994,Mexico
+2678,1996,Mexico
+2679,1994,Russia
+2680,1995,Russia
+2681,1996,Russia
+2682,1999,Russia
+2683,2000,Russia
+2684,2001,Russia
+2685,2002,Russia
+2686,2003,Russia
+2687,2004,Russia
+2688,2005,Russia
+2689,2006,Russia
+2690,2007,Russia
+2691,1994,Yemen (North Yemen)
+2692,1995,Ecuador
+2693,1995,Peru
+2694,1990,Pakistan
+2695,1994,Pakistan
+2696,1995,Pakistan
+2697,1996,Pakistan
+2698,2007,Pakistan
+2699,2008,Pakistan
+2700,2009,Pakistan
+2701,2009,Pakistan
+2702,2010,Pakistan
+2703,2010,Pakistan
+2704,2011,Pakistan
+2705,2012,Pakistan
+2706,2012,Pakistan
+2707,2012,Pakistan
+2708,2013,Pakistan
+2709,2013,Pakistan
+2710,2014,Pakistan
+2711,2014,Pakistan
+2712,2014,Pakistan
+2713,2014,Pakistan
+2714,2015,Pakistan
+2715,2016,Pakistan
+2716,1996,Cameroon
+2717,1996,Nigeria
+2718,1995,Niger
+2719,1997,Comoros
+2720,1993,Congo
+2721,1997,Congo
+2722,1997,Congo
+2723,1998,Congo
+2724,1998,Congo
+2725,1998,Congo
+2726,1999,Congo
+2727,1999,Congo
+2728,1999,Congo
+2729,2002,Congo
+2730,2016,Congo
+2731,1998,Eritrea
+2732,1998,Ethiopia
+2733,1999,Eritrea
+2734,1999,Ethiopia
+2735,2000,Eritrea
+2736,2000,Ethiopia
+2737,2016,Eritrea
+2738,2016,Ethiopia
+2739,1998,Guinea-Bissau
+2740,1999,Guinea-Bissau
+2741,1998,Lesotho
+2742,1998,Serbia
+2743,1999,Serbia
+2744,1977,Ethiopia
+2745,1978,Ethiopia
+2746,1980,Ethiopia
+2747,1981,Ethiopia
+2748,1983,Ethiopia
+2749,1984,Ethiopia
+2750,1985,Ethiopia
+2751,1986,Ethiopia
+2752,1987,Ethiopia
+2753,1988,Ethiopia
+2754,1989,Ethiopia
+2755,1990,Ethiopia
+2756,1991,Ethiopia
+2757,1992,Ethiopia
+2758,1994,Ethiopia
+2759,1995,Ethiopia
+2760,1998,Ethiopia
+2761,1999,Ethiopia
+2762,2000,Ethiopia
+2763,2001,Ethiopia
+2764,2002,Ethiopia
+2765,2003,Ethiopia
+2766,2004,Ethiopia
+2767,2005,Ethiopia
+2768,2006,Ethiopia
+2769,2007,Ethiopia
+2770,2008,Ethiopia
+2771,2009,Ethiopia
+2772,2010,Ethiopia
+2773,2011,Ethiopia
+2774,2012,Ethiopia
+2775,2013,Ethiopia
+2776,2015,Ethiopia
+2777,2016,Ethiopia
+2778,1999,Russia
+2779,1999,Uzbekistan
+2780,2000,Uzbekistan
+2781,2004,Uzbekistan
+2782,2001,Central African Republic
+2783,2002,Central African Republic
+2784,2006,Central African Republic
+2785,2009,Central African Republic
+2786,2010,Central African Republic
+2787,2011,Central African Republic
+2788,2012,Central African Republic
+2789,2013,Central African Republic
+2790,2013,Central African Republic
+2791,2001,Macedonia
+2792,2001,FYR
+2793,2001,United States of America
+2794,2002,United States of America
+2795,2003,United States of America
+2796,2004,United States of America
+2797,2005,United States of America
+2798,2006,United States of America
+2799,2007,United States of America
+2800,2008,United States of America
+2801,2009,United States of America
+2802,2010,United States of America
+2803,2011,United States of America
+2804,2012,United States of America
+2805,2013,United States of America
+2806,2014,United States of America
+2807,2015,United States of America
+2808,2016,United States of America
+2809,2002,Ivory Coast
+2810,2002,Ivory Coast
+2811,2003,Ivory Coast
+2812,2003,Ivory Coast
+2813,2004,Ivory Coast
+2814,2011,Ivory Coast
+2815,2003,Australia
+2816,2003,Iraq
+2817,2003,United Kingdom
+2818,2003,United States of America
+2819,1989,India
+2820,1990,India
+2821,1994,India
+2822,1996,India
+2823,1997,India
+2824,1998,India
+2825,1999,India
+2826,2001,India
+2827,2002,India
+2828,2003,India
+2829,2004,India
+2830,2009,India
+2831,2010,India
+2832,2013,India
+2833,2014,India
+2834,1997,Myanmar
+2835,2003,Thailand
+2836,2004,Thailand
+2837,2005,Thailand
+2838,2006,Thailand
+2839,2007,Thailand
+2840,2008,Thailand
+2841,2009,Thailand
+2842,2010,Thailand
+2843,2011,Thailand
+2844,2012,Thailand
+2845,2013,Thailand
+2846,2014,Thailand
+2847,2015,Thailand
+2848,2016,Thailand
+2849,2004,Nigeria
+2850,2004,Nigeria
+2851,1990,Israel
+2852,1991,Israel
+2853,1992,Israel
+2854,1993,Israel
+2855,1994,Israel
+2856,1995,Israel
+2857,1996,Israel
+2858,1997,Israel
+2859,1998,Israel
+2860,1999,Israel
+2861,2006,Israel
+2862,1978,Tanzania
+2863,1978,Uganda
+2864,1975,Mauritania
+2865,1976,Mauritania
+2866,1977,Mauritania
+2867,1978,Mauritania
+2868,2007,DR Congo (Zaire)
+2869,2008,DR Congo (Zaire)
+2870,1991,Niger
+2871,1992,Niger
+2872,1997,Niger
+2873,2007,Niger
+2874,2008,Niger
+2875,1979,Afghanistan
+2876,1979,Russia
+2877,2007,Russia
+2878,2008,Russia
+2879,2009,Russia
+2880,2010,Russia
+2881,2011,Russia
+2882,2012,Russia
+2883,2013,Russia
+2884,2014,Russia
+2885,2015,Russia
+2886,2008,India
+2887,2008,Djibouti
+2888,2008,Eritrea
+2889,1977,Ethiopia
+2890,1978,Ethiopia
+2891,1979,Ethiopia
+2892,1980,Ethiopia
+2893,1983,Ethiopia
+2894,1997,India
+2895,2009,Myanmar
+2896,2014,Myanmar
+2897,2015,Myanmar
+2898,1973,Myanmar
+2899,1974,Myanmar
+2900,1975,Myanmar
+2901,1976,Myanmar
+2902,1977,Myanmar
+2903,1978,Myanmar
+2904,1979,Myanmar
+2905,1980,Myanmar
+2906,1981,Myanmar
+2907,1982,Myanmar
+2908,2010,Mauritania
+2909,2011,Mauritania
+2910,2012,India
+2911,2014,India
+2912,1967,Egypt
+2913,1967,Israel
+2914,1969,Egypt
+2915,1969,Israel
+2916,1970,Egypt
+2917,1970,Israel
+2918,1973,Egypt
+2919,1973,Israel
+2920,2011,Sudan
+2921,2011,South Sudan
+2922,2011,South Sudan
+2923,2012,South Sudan
+2924,2013,South Sudan
+2925,2013,South Sudan
+2926,2014,South Sudan
+2927,2015,South Sudan
+2928,2016,South Sudan
+2929,2011,Libya
+2930,2011,Libya
+2931,2014,Libya
+2932,2014,Libya
+2933,2015,Libya
+2934,2009,Mali
+2935,2012,Mali
+2936,2012,Mali
+2937,2013,Mali
+2938,2013,Mali
+2939,2013,Mali
+2940,2013,Mali
+2941,2014,Mali
+2942,2014,Mali
+2943,2015,Mali
+2944,2016,Mali
+2945,2016,Mali
+2946,2012,South Sudan
+2947,2012,Sudan
+2948,2008,China
+2949,2005,Bangladesh
+2950,2005,Bangladesh
+2951,2006,Bangladesh
+2952,1991,Ethiopia
+2953,1991,Myanmar
+2954,1995,Myanmar
+2955,2000,Myanmar
+2956,2001,Myanmar
+2957,2005,Myanmar
+2958,2006,Myanmar
+2959,2007,Myanmar
+2960,2013,Malaysia
+2961,1947,Hyderabad
+2962,1948,Hyderabad
+2963,2012,Syria
+2964,2013,Syria
+2965,2015,Syria
+2966,2014,Ukraine
+2967,2014,Ukraine
+2968,2014,Ukraine
+2969,2014,Ukraine
+2970,2015,Ukraine
+2971,2015,Ukraine
+2972,2015,Ukraine
+2973,2016,Ukraine
+2974,2016,Ukraine
+2975,2013,Myanmar
+2976,2014,Myanmar
+2977,2015,Myanmar
+2978,2015,Russia
+2979,2016,Russia
+2980,2013,Syria
+2981,2014,Syria
+2982,2015,Syria
+2983,2016,Syria
+2984,2015,Mali
+2985,2015,Afghanistan
+2986,2016,Afghanistan
+2987,2015,Cameroon
+2988,2016,Cameroon
+2989,2015,Niger
+2990,2016,Niger
+2991,2015,Chad
+2992,2015,Nigeria
+2993,2016,Nigeria
+2994,2015,Yemen (North Yemen)
+2995,2015,Kenya
+2996,2016,Kenya
+2997,2015,Egypt
+2998,2016,Egypt
+2999,2015,India
+3000,2016,India
+3001,2016,Bangladesh
+3002,2014,Lebanon
+3003,2015,Lebanon
+3004,2001,Afghanistan
+3005,2001,United Kingdom
+3006,2001,United States of America
+3007,2015,Libya
+3008,2016,Libya
+3009,2015,Algeria
+3010,2016,Syria
+3011,2016,Jordan
+3012,2015,Turkey
+3013,2016,Turkey
+3014,2016,Pakistan
