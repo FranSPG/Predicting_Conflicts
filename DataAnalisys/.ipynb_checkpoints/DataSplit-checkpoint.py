@@ -1,21 +1,21 @@
 
 # coding: utf-8
 
-# In[4]:
+# In[1]:
 
 
 import sys
-sys.path.insert(0, 'C:/Users/Franco/Documents/AnacondaProjects/Predicting_Conflicts')
+sys.path.insert(0, 'C:/Users/Franco/AnacondaProjects/Predicting_Conflicts')
 from Libs import *
 
 
-# In[7]:
+# In[2]:
 
 
-df_final = pd.read_csv('C:/Users/Franco/Documents/AnacondaProjects/Predicting_Conflicts/Intersection_Trade_Foreing_Conflict/df_final_ver_3.csv', index_col=0)
+df_final = pd.read_csv('C:/Users/Franco/AnacondaProjects/Predicting_Conflicts/Intersection_Trade_Foreing_Conflict/df_final_ver_3.csv', index_col=0)
 
 
-# In[8]:
+# In[6]:
 
 
 df_final['amount'] = df_final['amount'].fillna(0)
@@ -27,7 +27,7 @@ df_final['Prom Vehicles'] = df_final['Prom Vehicles'].fillna(0)
 df_final['Prom Weapons'] = df_final['Prom Weapons'].fillna(0)
 
 
-# In[9]:
+# In[7]:
 
 
 # Mezclo el dataframe df_final y hago un slice con todos los valores que tengan el campo año < a 2017
@@ -62,14 +62,14 @@ df_data_c10_validation = pd.DataFrame(df_validation.loc[:, ['country encoded', '
 df_target_c10_validation = pd.DataFrame(df_validation.loc[:, ['conflict']])
 
 
-# In[10]:
+# In[8]:
 
 
 # Verifricación que ninguna row se repite en los 2 datasets (df_validation, df_train_models)
 df_validation.index.isin(df_train_models.index).any()
 
 
-# In[11]:
+# In[9]:
 
 
 # Splits del dataframe de entrenamiento
