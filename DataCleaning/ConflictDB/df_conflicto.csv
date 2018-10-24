@@ -125,15 +125,15 @@
 123,1946,Thailand
 124,1946,Albania
 125,1946,United Kingdom
-126,1946,Vietnam (North Vietnam)
-127,1947,Vietnam (North Vietnam)
-128,1948,Vietnam (North Vietnam)
-129,1949,Vietnam (North Vietnam)
-130,1950,Vietnam (North Vietnam)
-131,1951,Vietnam (North Vietnam)
-132,1952,Vietnam (North Vietnam)
-133,1953,Vietnam (North Vietnam)
-134,1954,Vietnam (North Vietnam)
+126,1946,Vietnam
+127,1947,Vietnam
+128,1948,Vietnam
+129,1949,Vietnam
+130,1950,Vietnam
+131,1951,Vietnam
+132,1952,Vietnam
+133,1953,Vietnam
+134,1954,Vietnam
 135,1947,China
 136,1948,India
 137,1948,Pakistan
@@ -177,7 +177,7 @@
 175,2015,Pakistan
 176,2016,India
 177,2016,Pakistan
-178,1947,Madagascar (Malagasy)
+178,1947,Madagascar
 179,1947,Paraguay
 180,1954,Paraguay
 181,1989,Paraguay
@@ -444,31 +444,31 @@
 442,1955,Malaysia
 443,1956,Malaysia
 444,1957,Malaysia
-445,1948,Yemen (North Yemen)
-446,1962,Yemen (North Yemen)
-447,1963,Yemen (North Yemen)
-448,1964,Yemen (North Yemen)
-449,1965,Yemen (North Yemen)
-450,1966,Yemen (North Yemen)
-451,1967,Yemen (North Yemen)
-452,1968,Yemen (North Yemen)
-453,1969,Yemen (North Yemen)
-454,1970,Yemen (North Yemen)
-455,1979,Yemen (North Yemen)
-456,1980,Yemen (North Yemen)
-457,1981,Yemen (North Yemen)
-458,1982,Yemen (North Yemen)
-459,2009,Yemen (North Yemen)
-460,2010,Yemen (North Yemen)
-461,2011,Yemen (North Yemen)
-462,2012,Yemen (North Yemen)
-463,2013,Yemen (North Yemen)
-464,2014,Yemen (North Yemen)
-465,2014,Yemen (North Yemen)
-466,2015,Yemen (North Yemen)
-467,2015,Yemen (North Yemen)
-468,2015,Yemen (North Yemen)
-469,2016,Yemen (North Yemen)
+445,1948,Yemen
+446,1962,Yemen
+447,1963,Yemen
+448,1964,Yemen
+449,1965,Yemen
+450,1966,Yemen
+451,1967,Yemen
+452,1968,Yemen
+453,1969,Yemen
+454,1970,Yemen
+455,1979,Yemen
+456,1980,Yemen
+457,1981,Yemen
+458,1982,Yemen
+459,2009,Yemen
+460,2010,Yemen
+461,2011,Yemen
+462,2012,Yemen
+463,2013,Yemen
+464,2014,Yemen
+465,2014,Yemen
+466,2015,Yemen
+467,2015,Yemen
+468,2015,Yemen
+469,2016,Yemen
 470,1949,Myanmar
 471,1950,Myanmar
 472,1961,Myanmar
@@ -693,7 +693,7 @@
 691,1956,China
 692,1959,China
 693,1950,Indonesia
-694,1950,United States of America
+694,1950,United States
 695,1951,Egypt
 696,1951,United Kingdom
 697,1952,Egypt
@@ -977,13 +977,13 @@
 975,2013,Myanmar
 976,2013,Myanmar
 977,2015,Myanmar
-978,1961,DR Congo (Zaire)
-979,1962,DR Congo (Zaire)
-980,2013,DR Congo (Zaire)
-981,2014,DR Congo (Zaire)
-982,1960,DR Congo (Zaire)
-983,1961,DR Congo (Zaire)
-984,1962,DR Congo (Zaire)
+978,1961,Congo
+979,1962,Congo
+980,2013,Congo
+981,2014,Congo
+982,1960,Congo
+983,1961,Congo
+984,1962,Congo
 985,1960,Ethiopia
 986,1976,Ethiopia
 987,1976,Ethiopia
@@ -1163,32 +1163,32 @@
 1161,1970,Sudan
 1162,1971,Sudan
 1163,1972,Sudan
-1164,1964,DR Congo (Zaire)
-1165,1965,DR Congo (Zaire)
-1166,1967,DR Congo (Zaire)
-1167,1977,DR Congo (Zaire)
-1168,1978,DR Congo (Zaire)
-1169,1996,DR Congo (Zaire)
-1170,1997,DR Congo (Zaire)
-1171,1998,DR Congo (Zaire)
-1172,1998,DR Congo (Zaire)
-1173,1999,DR Congo (Zaire)
-1174,1999,DR Congo (Zaire)
-1175,2000,DR Congo (Zaire)
-1176,2000,DR Congo (Zaire)
-1177,2001,DR Congo (Zaire)
-1178,2006,DR Congo (Zaire)
-1179,2007,DR Congo (Zaire)
-1180,2008,DR Congo (Zaire)
-1181,2011,DR Congo (Zaire)
-1182,2012,DR Congo (Zaire)
-1183,2012,DR Congo (Zaire)
-1184,2013,DR Congo (Zaire)
-1185,2013,DR Congo (Zaire)
-1186,2013,DR Congo (Zaire)
-1187,2014,DR Congo (Zaire)
-1188,2014,DR Congo (Zaire)
-1189,2016,DR Congo (Zaire)
+1164,1964,Congo
+1165,1965,Congo
+1166,1967,Congo
+1167,1977,Congo
+1168,1978,Congo
+1169,1996,Congo
+1170,1997,Congo
+1171,1998,Congo
+1172,1998,Congo
+1173,1999,Congo
+1174,1999,Congo
+1175,2000,Congo
+1176,2000,Congo
+1177,2001,Congo
+1178,2006,Congo
+1179,2007,Congo
+1180,2008,Congo
+1181,2011,Congo
+1182,2012,Congo
+1183,2012,Congo
+1184,2013,Congo
+1185,2013,Congo
+1186,2013,Congo
+1187,2014,Congo
+1188,2014,Congo
+1189,2016,Congo
 1190,1964,Gabon
 1191,1964,Mozambique
 1192,1965,Mozambique
@@ -1426,27 +1426,27 @@
 1424,2009,Peru
 1425,2010,Peru
 1426,1965,South Vietnam
-1427,1965,Vietnam (North Vietnam)
+1427,1965,Vietnam
 1428,1966,South Vietnam
-1429,1966,Vietnam (North Vietnam)
+1429,1966,Vietnam
 1430,1967,South Vietnam
-1431,1967,Vietnam (North Vietnam)
+1431,1967,Vietnam
 1432,1968,South Vietnam
-1433,1968,Vietnam (North Vietnam)
+1433,1968,Vietnam
 1434,1969,South Vietnam
-1435,1969,Vietnam (North Vietnam)
+1435,1969,Vietnam
 1436,1970,South Vietnam
-1437,1970,Vietnam (North Vietnam)
+1437,1970,Vietnam
 1438,1971,South Vietnam
-1439,1971,Vietnam (North Vietnam)
+1439,1971,Vietnam
 1440,1972,South Vietnam
-1441,1972,Vietnam (North Vietnam)
+1441,1972,Vietnam
 1442,1973,South Vietnam
-1443,1973,Vietnam (North Vietnam)
+1443,1973,Vietnam
 1444,1974,South Vietnam
-1445,1974,Vietnam (North Vietnam)
+1445,1974,Vietnam
 1446,1975,South Vietnam
-1447,1975,Vietnam (North Vietnam)
+1447,1975,Vietnam
 1448,1977,Cambodia
 1449,1977,Thailand
 1450,1978,Cambodia
@@ -1705,7 +1705,7 @@
 1703,2015,Sudan
 1704,2015,Sudan
 1705,2016,Sudan
-1706,1971,Madagascar (Malagasy)
+1706,1971,Madagascar
 1707,1971,Morocco
 1708,1971,Pakistan
 1709,1971,Sri Lanka
@@ -1822,23 +1822,23 @@
 1820,1973,Oman
 1821,1974,Oman
 1822,1975,Oman
-1823,1967,Zimbabwe (Rhodesia)
-1824,1968,Zimbabwe (Rhodesia)
-1825,1973,Zimbabwe (Rhodesia)
-1826,1973,Zimbabwe (Rhodesia)
-1827,1974,Zimbabwe (Rhodesia)
-1828,1974,Zimbabwe (Rhodesia)
-1829,1975,Zimbabwe (Rhodesia)
-1830,1976,Zimbabwe (Rhodesia)
-1831,1976,Zimbabwe (Rhodesia)
-1832,1977,Zimbabwe (Rhodesia)
-1833,1978,Zimbabwe (Rhodesia)
-1834,1979,Zimbabwe (Rhodesia)
+1823,1967,Zimbabwe
+1824,1968,Zimbabwe
+1825,1973,Zimbabwe
+1826,1973,Zimbabwe
+1827,1974,Zimbabwe
+1828,1974,Zimbabwe
+1829,1975,Zimbabwe
+1830,1976,Zimbabwe
+1831,1976,Zimbabwe
+1832,1977,Zimbabwe
+1833,1978,Zimbabwe
+1834,1979,Zimbabwe
 1835,1972,Uruguay
 1836,1972,South Yemen
-1837,1972,Yemen (North Yemen)
+1837,1972,Yemen
 1838,1979,South Yemen
-1839,1979,Yemen (North Yemen)
+1839,1979,Yemen
 1840,1973,Chile
 1841,1975,Bangladesh
 1842,1976,Bangladesh
@@ -1938,11 +1938,11 @@
 1936,2001,Angola
 1937,2002,Angola
 1938,1975,Cambodia
-1939,1975,Vietnam (North Vietnam)
+1939,1975,Vietnam
 1940,1976,Cambodia
-1941,1976,Vietnam (North Vietnam)
+1941,1976,Vietnam
 1942,1977,Cambodia
-1943,1977,Vietnam (North Vietnam)
+1943,1977,Vietnam
 1944,1964,Ethiopia
 1945,1976,Ethiopia
 1946,1977,Ethiopia
@@ -2150,25 +2150,25 @@
 2148,2015,Afghanistan
 2149,2016,Afghanistan
 2150,1974,China
-2151,1974,Vietnam (North Vietnam)
+2151,1974,Vietnam
 2152,1978,China
-2153,1978,Vietnam (North Vietnam)
+2153,1978,Vietnam
 2154,1979,China
-2155,1979,Vietnam (North Vietnam)
+2155,1979,Vietnam
 2156,1980,China
-2157,1980,Vietnam (North Vietnam)
+2157,1980,Vietnam
 2158,1981,China
-2159,1981,Vietnam (North Vietnam)
+2159,1981,Vietnam
 2160,1983,China
-2161,1983,Vietnam (North Vietnam)
+2161,1983,Vietnam
 2162,1984,China
-2163,1984,Vietnam (North Vietnam)
+2163,1984,Vietnam
 2164,1986,China
-2165,1986,Vietnam (North Vietnam)
+2165,1986,Vietnam
 2166,1987,China
-2167,1987,Vietnam (North Vietnam)
+2167,1987,Vietnam
 2168,1988,China
-2169,1988,Vietnam (North Vietnam)
+2169,1988,Vietnam
 2170,1979,India
 2171,1980,India
 2172,1981,India
@@ -2325,7 +2325,7 @@
 2323,1983,Chad
 2324,1983,Nigeria
 2325,1983,Grenada
-2326,1983,United States of America
+2326,1983,United States
 2327,1983,India
 2328,1984,India
 2329,1985,India
@@ -2476,7 +2476,7 @@
 2474,2005,Indonesia
 2475,1989,Panama
 2476,1989,Panama
-2477,1989,United States of America
+2477,1989,United States
 2478,1990,Papua New Guinea
 2479,1992,Papua New Guinea
 2480,1993,Papua New Guinea
@@ -2690,7 +2690,7 @@
 2688,2005,Russia
 2689,2006,Russia
 2690,2007,Russia
-2691,1994,Yemen (North Yemen)
+2691,1994,Yemen
 2692,1995,Ecuador
 2693,1995,Peru
 2694,1990,Pakistan
@@ -2792,22 +2792,22 @@
 2790,2013,Central African Republic
 2791,2001,Macedonia
 2792,2001,FYR
-2793,2001,United States of America
-2794,2002,United States of America
-2795,2003,United States of America
-2796,2004,United States of America
-2797,2005,United States of America
-2798,2006,United States of America
-2799,2007,United States of America
-2800,2008,United States of America
-2801,2009,United States of America
-2802,2010,United States of America
-2803,2011,United States of America
-2804,2012,United States of America
-2805,2013,United States of America
-2806,2014,United States of America
-2807,2015,United States of America
-2808,2016,United States of America
+2793,2001,United States
+2794,2002,United States
+2795,2003,United States
+2796,2004,United States
+2797,2005,United States
+2798,2006,United States
+2799,2007,United States
+2800,2008,United States
+2801,2009,United States
+2802,2010,United States
+2803,2011,United States
+2804,2012,United States
+2805,2013,United States
+2806,2014,United States
+2807,2015,United States
+2808,2016,United States
 2809,2002,Ivory Coast
 2810,2002,Ivory Coast
 2811,2003,Ivory Coast
@@ -2817,7 +2817,7 @@
 2815,2003,Australia
 2816,2003,Iraq
 2817,2003,United Kingdom
-2818,2003,United States of America
+2818,2003,United States
 2819,1989,India
 2820,1990,India
 2821,1994,India
@@ -2867,8 +2867,8 @@
 2865,1976,Mauritania
 2866,1977,Mauritania
 2867,1978,Mauritania
-2868,2007,DR Congo (Zaire)
-2869,2008,DR Congo (Zaire)
+2868,2007,Congo
+2869,2008,Congo
 2870,1991,Niger
 2871,1992,Niger
 2872,1997,Niger
@@ -2993,7 +2993,7 @@
 2991,2015,Chad
 2992,2015,Nigeria
 2993,2016,Nigeria
-2994,2015,Yemen (North Yemen)
+2994,2015,Yemen
 2995,2015,Kenya
 2996,2016,Kenya
 2997,2015,Egypt
@@ -3005,7 +3005,7 @@
 3003,2015,Lebanon
 3004,2001,Afghanistan
 3005,2001,United Kingdom
-3006,2001,United States of America
+3006,2001,United States
 3007,2015,Libya
 3008,2016,Libya
 3009,2015,Algeria

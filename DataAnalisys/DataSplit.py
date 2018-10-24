@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # In[4]:
@@ -9,13 +9,13 @@ sys.path.insert(0, 'C:/Users/Franco/Documents/AnacondaProjects/Predicting_Confli
 from Libs import *
 
 
-# In[7]:
+# In[5]:
 
 
-df_final = pd.read_csv('C:/Users/Franco/Documents/AnacondaProjects/Predicting_Conflicts/Intersection_Trade_Foreing_Conflict/df_final_ver_3.csv', index_col=0)
+df_final = pd.read_csv('C:/Users/Franco/Documents/AnacondaProjects/Predicting_Conflicts/DataMerge/df_final.csv', index_col=0)
 
 
-# In[8]:
+# In[6]:
 
 
 df_final['amount'] = df_final['amount'].fillna(0)
@@ -25,15 +25,19 @@ df_final['conflict-7-to-9'] = df_final['conflict-7-to-9'].fillna(False)
 df_final['Prom Tools'] = df_final['Prom Tools'].fillna(0)
 df_final['Prom Vehicles'] = df_final['Prom Vehicles'].fillna(0)
 df_final['Prom Weapons'] = df_final['Prom Weapons'].fillna(0)
+df_final['Weapons'] = df_final['Weapons'].fillna(0)
+df_final['Vehicles'] = df_final['Vehicles'].fillna(0)
+df_final['Tools'] = df_final['Tools'].fillna(0)
+df_final['conflict'] = df_final['conflict'].fillna(False)
 
 
-# In[9]:
+# In[7]:
 
 
 # Mezclo el dataframe df_final y hago un slice con todos los valores que tengan el campo año < a 2017
 # El dataset de conflictos tiene información hasta el año 2016
 # El dataset de transferencias de armas tiene información hasta el año 2017
-df_mixed = pd.DataFrame(df_final[df_final['year'] < 2017].sample(frac=1))
+df_mixed = pd.DataFrame(df_final[df_final['year'] < 2018].sample(frac=1))
 
 # Dataframe con el slice de los datos con la columna year > 2016
 df_to_predict = pd.DataFrame(df_final[df_final['year'] > 2016])
@@ -42,10 +46,15 @@ df_to_predict['conflict'] = np.nan
 
 # Distribuyendo equitativamente los valores con conflict true y false
 # df_validation tiene un 10% del total para hacer una re validación
+
 df_mixed_true = df_mixed[df_mixed['conflict'] == True]
 df_mixed_false = df_mixed[df_mixed['conflict'] == False]
-df_validation = pd.DataFrame(pd.concat([df_mixed_true[:177], (df_mixed_false[:693])]))                            
-df_train_models = pd.DataFrame(pd.concat([df_mixed_true[177:], df_mixed_false[693:]]))
+
+ten_percent_true = int(len(df_mixed_true)*0.1)
+ten_percent_false = int(len(df_mixed_false)*0.1)
+
+df_validation = pd.DataFrame(pd.concat([df_mixed_true[:ten_percent_true], (df_mixed_false[:ten_percent_false])]))                            
+df_train_models = pd.DataFrame(pd.concat([df_mixed_true[ten_percent_true:], df_mixed_false[ten_percent_false:]]))
 
 df_validation_data = pd.DataFrame(df_validation.loc[:, ['country encoded', 'year', 'amount', 'Tools', 'Vehicles', 'Weapons', 'Prom Tools', 'Prom Vehicles', 'Prom Weapons', 'conflict-1-to-3', 'conflict-4-to-6', 'conflict-7-to-9', 'Prom USA']])
 df_validation_target = pd.DataFrame(df_validation.loc[:, ['conflict']])
@@ -62,14 +71,14 @@ df_data_c10_validation = pd.DataFrame(df_validation.loc[:, ['country encoded', '
 df_target_c10_validation = pd.DataFrame(df_validation.loc[:, ['conflict']])
 
 
-# In[10]:
+# In[8]:
 
 
 # Verifricación que ninguna row se repite en los 2 datasets (df_validation, df_train_models)
 df_validation.index.isin(df_train_models.index).any()
 
 
-# In[11]:
+# In[9]:
 
 
 # Splits del dataframe de entrenamiento
@@ -111,4 +120,10 @@ X_train_c10, X_test_c10, y_train_c10, y_test_c10 = train_test_split(df_train_mod
                                                                                          'Prom USA']],
                                                                 df_train_models.loc[:, ['conflict']],
                                                                 test_size = 0.25, random_state=np.random.randint(100000))
+
+
+# In[ ]:
+
+
+
 

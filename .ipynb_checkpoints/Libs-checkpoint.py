@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[3]:
+# In[1]:
 
 
 import numpy as np
@@ -24,7 +24,6 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import roc_auc_score
-from sklearn.metrics import f1_score
 
 pd.options.display.max_rows = 1000
 pd.options.display.float_format = '{:.2f}'.format
