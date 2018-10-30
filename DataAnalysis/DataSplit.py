@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[1]:
 
 
 import sys
@@ -9,13 +9,13 @@ sys.path.insert(0, 'C:/Users/Franco/Documents/AnacondaProjects/Predicting_Confli
 from Libs import *
 
 
-# In[5]:
+# In[2]:
 
 
 df_final = pd.read_csv('C:/Users/Franco/Documents/AnacondaProjects/Predicting_Conflicts/DataMerge/df_final.csv', index_col=0)
 
 
-# In[6]:
+# In[3]:
 
 
 df_final['amount'] = df_final['amount'].fillna(0)
@@ -31,7 +31,7 @@ df_final['Tools'] = df_final['Tools'].fillna(0)
 df_final['conflict'] = df_final['conflict'].fillna(False)
 
 
-# In[7]:
+# In[5]:
 
 
 # Mezclo el dataframe df_final y hago un slice con todos los valores que tengan el campo año < a 2017
@@ -70,6 +70,18 @@ df_target_c5_validation = pd.DataFrame(df_validation.loc[:, ['conflict']])
 df_data_c10_validation = pd.DataFrame(df_validation.loc[:, ['country encoded', 'year', 'amount', 'Tools', 'Vehicles', 'Weapons', 'Prom Tools', 'Prom Vehicles', 'Prom Weapons', 'conflict-7-to-9', 'Prom USA']])
 df_target_c10_validation = pd.DataFrame(df_validation.loc[:, ['conflict']])
 
+#df_grouped = pd.DataFrame(df_validation.loc[])
+
+
+# In[23]:
+
+
+df_grouped = pd.DataFrame(df_validation.loc[:, ['year', 'Tools', 'Vehicles', 'Weapons', 'amount', 'conflict', 'conflict-1-to-3', 'conflict-4-to-6', 'conflict-7-to-9', 'country encoded']])
+df_grouped['Armament'] = df_grouped[['Tools', 'Vehicles', 'Weapons']].sum(1)
+
+df_grouped_data = pd.DataFrame(df_grouped.loc[:, ['year','Armament', 'amount', 'conflict-1-to-3', 'conflict-4-to-6', 'conflict-7-to-9', 'country encoded']])
+df_grouped_target = pd.DataFrame(df_grouped.loc[:, ['conflict']])
+
 
 # In[8]:
 
@@ -78,7 +90,7 @@ df_target_c10_validation = pd.DataFrame(df_validation.loc[:, ['conflict']])
 df_validation.index.isin(df_train_models.index).any()
 
 
-# In[9]:
+# In[21]:
 
 
 # Splits del dataframe de entrenamiento
@@ -120,6 +132,11 @@ X_train_c10, X_test_c10, y_train_c10, y_test_c10 = train_test_split(df_train_mod
                                                                                          'Prom USA']],
                                                                 df_train_models.loc[:, ['conflict']],
                                                                 test_size = 0.25, random_state=np.random.randint(100000))
+
+X_train_grouped, X_test_grouped, y_train_grouped, y_test_grouped = train_test_split(df_grouped_data,
+                                                                                   df_grouped_target,
+                                                                                   test_size = 0.25,
+                                                                                   random_state=np.random.randint(100000)) 
 
 
 # In[ ]:
