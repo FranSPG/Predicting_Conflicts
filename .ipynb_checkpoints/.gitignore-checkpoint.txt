@@ -1,0 +1,7 @@
+\DataAnalysis\MLAlgos\SupportVectorClassifier
+\DataAnalysis\MLAlgos\RandomForest
+\DataAnalysis\MLAlgos\MultilayerPerceptron
+\DataAnalysis\MLAlgos\LogisticRegression
+\DataAnalysis\MLAlgos\KNeighborsClassifier
+\DataAnalysis\MLAlgos\GaussianNaiveBayes
+\DataAnalysis\MLAlgos\BagginClassifier
